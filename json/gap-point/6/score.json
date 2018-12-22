@@ -1,0 +1,662 @@
+[
+  [
+    [
+      "30",
+      "Jason Kath"
+    ],
+    {
+      "breakdown": {
+        "time": 184.7,
+        "reach": 106.792,
+        "distance": 213.583,
+        "leading": 47.2,
+        "effort": 106.792,
+        "arrival": 33.7
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": "44.98 km / h",
+        "ssElapsed": "3.632222 h",
+        "gsElapsed": "3.331389 h",
+        "es": "2018-01-04T06:29:53Z",
+        "ss": "2018-01-04T02:51:57Z",
+        "ssDistance": "163.364 km",
+        "gsVelocity": "49.00 km / h"
+      },
+      "total": 479,
+      "landedDistance": "168.692 km",
+      "place": "1",
+      "reachDistance": "168.692 km"
+    }
+  ],
+  [
+    [
+      "92",
+      "Attila Bertok"
+    ],
+    {
+      "breakdown": {
+        "time": 188.8,
+        "reach": 106.792,
+        "distance": 213.583,
+        "leading": 46.9,
+        "effort": 106.792,
+        "arrival": 17.1
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:30:00Z",
+        "ssVelocity": "45.08 km / h",
+        "ssElapsed": "3.623611 h",
+        "gsElapsed": "3.325556 h",
+        "es": "2018-01-04T06:49:32Z",
+        "ss": "2018-01-04T03:12:07Z",
+        "ssDistance": "163.364 km",
+        "gsVelocity": "49.10 km / h"
+      },
+      "total": 466,
+      "landedDistance": "168.692 km",
+      "place": "2",
+      "reachDistance": "168.692 km"
+    }
+  ],
+  [
+    [
+      "11",
+      "Steve Blenkinsop"
+    ],
+    {
+      "breakdown": {
+        "time": 156.9,
+        "reach": 106.792,
+        "distance": 213.583,
+        "leading": 47.1,
+        "effort": 106.792,
+        "arrival": 27
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": "43.20 km / h",
+        "ssElapsed": "3.781667 h",
+        "gsElapsed": "3.452222 h",
+        "es": "2018-01-04T06:37:08Z",
+        "ss": "2018-01-04T02:50:14Z",
+        "ssDistance": "163.364 km",
+        "gsVelocity": "47.30 km / h"
+      },
+      "total": 445,
+      "landedDistance": "168.692 km",
+      "place": "3",
+      "reachDistance": "168.692 km"
+    }
+  ],
+  [
+    [
+      "7",
+      "Olav Opsanger"
+    ],
+    {
+      "breakdown": {
+        "time": 157.4,
+        "reach": 106.792,
+        "distance": 213.583,
+        "leading": 46.9,
+        "effort": 106.792,
+        "arrival": 11.1
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:30:00Z",
+        "ssVelocity": "43.63 km / h",
+        "ssElapsed": "3.744722 h",
+        "gsElapsed": "3.449167 h",
+        "es": "2018-01-04T06:56:57Z",
+        "ss": "2018-01-04T03:12:16Z",
+        "ssDistance": "163.364 km",
+        "gsVelocity": "47.40 km / h"
+      },
+      "total": 429,
+      "landedDistance": "168.692 km",
+      "place": "4",
+      "reachDistance": "168.692 km"
+    }
+  ],
+  [
+    [
+      "98",
+      "Oyvind Ellefsen"
+    ],
+    {
+      "breakdown": {
+        "time": 152.8,
+        "reach": 106.792,
+        "distance": 213.583,
+        "leading": 46.9,
+        "effort": 106.792,
+        "arrival": 8.1
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:30:00Z",
+        "ssVelocity": "43.39 km / h",
+        "ssElapsed": "3.765000 h",
+        "gsElapsed": "3.477500 h",
+        "es": "2018-01-04T06:58:39Z",
+        "ss": "2018-01-04T03:12:45Z",
+        "ssDistance": "163.364 km",
+        "gsVelocity": "47.00 km / h"
+      },
+      "total": 421,
+      "landedDistance": "168.692 km",
+      "place": "5",
+      "reachDistance": "168.692 km"
+    }
+  ],
+  [
+    [
+      "62",
+      "Josh Woods"
+    ],
+    {
+      "breakdown": {
+        "time": 132.5,
+        "reach": 106.792,
+        "distance": 213.583,
+        "leading": 47,
+        "effort": 106.792,
+        "arrival": 21.5
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": "41.36 km / h",
+        "ssElapsed": "3.949722 h",
+        "gsElapsed": "3.622500 h",
+        "es": "2018-01-04T06:47:21Z",
+        "ss": "2018-01-04T02:50:22Z",
+        "ssDistance": "163.364 km",
+        "gsVelocity": "45.10 km / h"
+      },
+      "total": 415,
+      "landedDistance": "168.692 km",
+      "place": "6",
+      "reachDistance": "168.692 km"
+    }
+  ],
+  [
+    [
+      "41",
+      "Tony Armstrong"
+    ],
+    {
+      "breakdown": {
+        "time": 114.4,
+        "reach": 106.792,
+        "distance": 213.583,
+        "leading": 47.1,
+        "effort": 106.792,
+        "arrival": 13.7
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": "39.86 km / h",
+        "ssElapsed": "4.098056 h",
+        "gsElapsed": "3.776667 h",
+        "es": "2018-01-04T06:56:36Z",
+        "ss": "2018-01-04T02:50:43Z",
+        "ssDistance": "163.364 km",
+        "gsVelocity": "43.30 km / h"
+      },
+      "total": 389,
+      "landedDistance": "168.692 km",
+      "place": "7",
+      "reachDistance": "168.692 km"
+    }
+  ],
+  [
+    [
+      "8",
+      "Gordon Rigg"
+    ],
+    {
+      "breakdown": {
+        "time": 111.7,
+        "reach": 106.792,
+        "distance": 213.583,
+        "leading": 47,
+        "effort": 106.792,
+        "arrival": 9.3
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": "39.55 km / h",
+        "ssElapsed": "4.130278 h",
+        "gsElapsed": "3.801667 h",
+        "es": "2018-01-04T06:58:06Z",
+        "ss": "2018-01-04T02:50:17Z",
+        "ssDistance": "163.364 km",
+        "gsVelocity": "43.00 km / h"
+      },
+      "total": 382,
+      "landedDistance": "168.692 km",
+      "place": "8",
+      "reachDistance": "168.692 km"
+    }
+  ],
+  [
+    [
+      "72",
+      "Sasha Serebrennikova"
+    ],
+    {
+      "breakdown": {
+        "time": 66.1,
+        "reach": 106.792,
+        "distance": 213.583,
+        "leading": 47,
+        "effort": 106.792,
+        "arrival": 7.3
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": "35.49 km / h",
+        "ssElapsed": "4.603333 h",
+        "gsElapsed": "4.280556 h",
+        "es": "2018-01-04T07:26:50Z",
+        "ss": "2018-01-04T02:50:38Z",
+        "ssDistance": "163.364 km",
+        "gsVelocity": "38.20 km / h"
+      },
+      "total": 334,
+      "landedDistance": "168.692 km",
+      "place": "9",
+      "reachDistance": "168.692 km"
+    }
+  ],
+  [
+    [
+      "31",
+      "Trent Brown"
+    ],
+    {
+      "breakdown": {
+        "time": 60.3,
+        "reach": 106.792,
+        "distance": 213.583,
+        "leading": 47.1,
+        "effort": 106.792,
+        "arrival": 6.9
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": "34.93 km / h",
+        "ssElapsed": "4.677500 h",
+        "gsElapsed": "4.349167 h",
+        "es": "2018-01-04T07:30:57Z",
+        "ss": "2018-01-04T02:50:18Z",
+        "ssDistance": "163.364 km",
+        "gsVelocity": "37.60 km / h"
+      },
+      "total": 328,
+      "landedDistance": "168.692 km",
+      "place": "10",
+      "reachDistance": "168.692 km"
+    }
+  ],
+  [
+    [
+      "52",
+      "Dale Regehr"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 86.893,
+        "distance": 193.685,
+        "leading": 0,
+        "effort": 106.792,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T02:56:43Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 194,
+      "landedDistance": "137.180 km",
+      "place": "11",
+      "reachDistance": "137.260 km"
+    }
+  ],
+  [
+    [
+      "42",
+      "Rob de Groot"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 86.929,
+        "distance": 191.178,
+        "leading": 0,
+        "effort": 104.249,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T02:54:59Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 191,
+      "landedDistance": "137.016 km",
+      "place": "12",
+      "reachDistance": "137.317 km"
+    }
+  ],
+  [
+    [
+      "80",
+      "Michael Cassells"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 82.264,
+        "distance": 181.427,
+        "leading": 0,
+        "effort": 99.164,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T02:50:22Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 181,
+      "landedDistance": "129.170 km",
+      "place": "13",
+      "reachDistance": "129.947 km"
+    }
+  ],
+  [
+    [
+      "85",
+      "Rick Martin"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 80.244,
+        "distance": 171.78,
+        "leading": 0,
+        "effort": 91.536,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T03:05:53Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 172,
+      "landedDistance": "125.313 km",
+      "place": "14",
+      "reachDistance": "126.757 km"
+    }
+  ],
+  [
+    [
+      "22",
+      "Rohan Taylor"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 77.555,
+        "distance": 158.92,
+        "leading": 0,
+        "effort": 81.365,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T02:50:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T02:49:59Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 159,
+      "landedDistance": "122.086 km",
+      "place": "15",
+      "reachDistance": "122.509 km"
+    }
+  ],
+  [
+    [
+      "107",
+      "Anatoly Reyter"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 77.349,
+        "distance": 146,
+        "leading": 0,
+        "effort": 68.652,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T02:50:10Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 146,
+      "landedDistance": "121.739 km",
+      "place": "16",
+      "reachDistance": "122.183 km"
+    }
+  ],
+  [
+    [
+      "14",
+      "Peter Burkitt"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 73.723,
+        "distance": 127.119,
+        "leading": 0,
+        "effort": 53.396,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T02:50:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T02:49:38Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 127,
+      "landedDistance": "114.397 km",
+      "place": "17",
+      "reachDistance": "116.456 km"
+    }
+  ],
+  [
+    [
+      "23",
+      "Nils Vesk"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 71.627,
+        "distance": 107.224,
+        "leading": 0,
+        "effort": 35.597,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:10:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T02:50:27Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 107,
+      "landedDistance": "109.461 km",
+      "place": "18",
+      "reachDistance": "113.145 km"
+    }
+  ],
+  [
+    [
+      "74",
+      "Vic Hare"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 30.982,
+        "distance": 46.238,
+        "leading": 0,
+        "effort": 15.256,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T03:30:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T03:19:05Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 46,
+      "landedDistance": "48.869 km",
+      "place": "19",
+      "reachDistance": "48.941 km"
+    }
+  ],
+  [
+    [
+      "51",
+      "Craig Taylor"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 31.285,
+        "distance": 38.913,
+        "leading": 0,
+        "effort": 7.628,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T04:10:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T07:20:50Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 39,
+      "landedDistance": "0.584 km",
+      "place": "20",
+      "reachDistance": "49.419 km"
+    }
+  ],
+  [
+    [
+      "83",
+      "Randal Clotworthy"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 17.336,
+        "distance": 30.05,
+        "leading": 0,
+        "effort": 12.713,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T04:10:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T04:01:26Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 30,
+      "landedDistance": "27.331 km",
+      "place": "21",
+      "reachDistance": "27.385 km"
+    }
+  ],
+  [
+    [
+      "86",
+      "Ross Smith"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 18.145,
+        "distance": 25.773,
+        "leading": 0,
+        "effort": 7.628,
+        "arrival": 0
+      },
+      "velocity": {
+        "gs": "2018-01-04T04:10:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2018-01-04T04:50:04Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 26,
+      "landedDistance": "0.556 km",
+      "place": "22",
+      "reachDistance": "28.663 km"
+    }
+  ]
+]

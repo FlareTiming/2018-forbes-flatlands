@@ -1,0 +1,44 @@
+[
+  {
+    "time": 1,
+    "launch": 0.181,
+    "distance": 1,
+    "task": 0.181
+  },
+  {
+    "time": 1,
+    "launch": 0.118,
+    "distance": 1,
+    "task": 0.118
+  },
+  {
+    "time": 1,
+    "launch": 0.347,
+    "distance": 1,
+    "task": 0.347
+  },
+  {
+    "time": 1,
+    "launch": 0.671,
+    "distance": 1,
+    "task": 0.671
+  },
+  {
+    "time": 1,
+    "launch": 0.429,
+    "distance": 1,
+    "task": 0.429
+  },
+  {
+    "time": 1,
+    "launch": 0.483,
+    "distance": 1,
+    "task": 0.483
+  },
+  {
+    "time": 1,
+    "launch": 0.426,
+    "distance": 1,
+    "task": 0.426
+  }
+]

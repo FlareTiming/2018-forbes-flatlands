@@ -1,0 +1,12 @@
+{
+  "civilId": "12209",
+  "discipline": "hg",
+  "location": "Forbes, Australia",
+  "to": "2018-01-05",
+  "compName": "Forbes Flatlands 2018",
+  "from": "2017-12-28",
+  "utcOffset": {
+    "timeZoneMinutes": 660
+  },
+  "scoreBack": "900.000 s"
+}

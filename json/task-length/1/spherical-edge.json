@@ -1,0 +1,51 @@
+{
+  "taskRoute": {
+    "waypoints": [
+      {
+        "lat": -33.3562,
+        "lng": 147.9336
+      },
+      {
+        "lat": -31.9798,
+        "lng": 148.0035
+      }
+    ],
+    "distance": "153.188479 km",
+    "legsSum": [
+      "153.188479 km"
+    ],
+    "legs": [
+      "153.188479 km"
+    ]
+  },
+  "taskRouteSpeedSubset": {
+    "waypoints": [
+      {
+        "lat": -31.9798,
+        "lng": 148.0035
+      }
+    ],
+    "distance": "0.000000 km",
+    "legsSum": [],
+    "legs": []
+  },
+  "speedRoute": {
+    "waypoints": [
+      {
+        "lat": -33.26626784,
+        "lng": 147.9336
+      },
+      {
+        "lat": -31.91922896,
+        "lng": 148.08184031
+      }
+    ],
+    "distance": "150.426272 km",
+    "legsSum": [
+      "150.426272 km"
+    ],
+    "legs": [
+      "150.426272 km"
+    ]
+  }
+}
