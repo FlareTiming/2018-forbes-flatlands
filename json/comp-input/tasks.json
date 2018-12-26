@@ -5,331 +5,40 @@
       "raw": [
         {
           "radius": "400.0 m",
-          "lat": 43.82973,
-          "zoneName": "GS1",
-          "lng": 16.64243
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
         },
         {
-          "radius": "3000.0 m",
-          "lat": 43.84411,
-          "zoneName": "G35",
-          "lng": 16.6599
+          "radius": "10000.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
         },
         {
-          "radius": "400.0 m",
-          "lat": 43.82293,
-          "zoneName": "G44",
-          "lng": 16.61629
-        },
-        {
-          "radius": "400.0 m",
-          "lat": 43.78045,
-          "zoneName": "G10",
-          "lng": 16.65744
-        },
-        {
-          "radius": "1000.0 m",
-          "lat": 43.82342,
-          "zoneName": "G36",
-          "lng": 16.58682
-        },
-        {
-          "radius": "1000.0 m",
-          "lat": 43.72863,
-          "zoneName": "G17",
-          "lng": 16.69475
-        },
-        {
-          "radius": "1000.0 m",
-          "lat": 43.75677,
-          "zoneName": "G39",
-          "lng": 16.62018
-        },
-        {
-          "radius": "400.0 m",
-          "lat": 43.75677,
-          "zoneName": "G39",
-          "lng": 16.62018
-        }
-      ],
-      "raceKind": {
-        "race": [
-          {
-            "cylinder": {
-              "radius": "3000.0 m",
-              "center": [
-                "43.84411000 deg",
-                "16.65990000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "400.0 m",
-              "center": [
-                "43.82293000 deg",
-                "16.61629000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "400.0 m",
-              "center": [
-                "43.78045000 deg",
-                "16.65744000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "1000.0 m",
-              "center": [
-                "43.82342000 deg",
-                "16.58682000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "1000.0 m",
-              "center": [
-                "43.72863000 deg",
-                "16.69475000 deg"
-              ]
-            }
-          }
-        ],
-        "epilog": [],
-        "goal": {
-          "circle": {
-            "radius": "400.0 m",
-            "center": [
-              "43.75677000 deg",
-              "16.62018000 deg"
-            ]
-          }
-        },
-        "race-ess": {
-          "cylinder": {
-            "radius": "1000.0 m",
-            "center": [
-              "43.75677000 deg",
-              "16.62018000 deg"
-            ]
-          }
-        },
-        "prolog": [
-          {
-            "cylinder": {
-              "radius": "400.0 m",
-              "center": [
-                "43.82973000 deg",
-                "16.64243000 deg"
-              ]
-            }
-          }
-        ]
-      },
-      "openKind": null
-    },
-    "speedSection": [
-      2,
-      7
-    ],
-    "stopped": {
-      "announced": "2018-05-24T12:23:00Z"
-    },
-    "startGates": [
-      "2018-05-24T10:30:00Z"
-    ],
-    "absent": [
-      [
-        "50",
-        "Josip Osmann"
-      ],
-      [
-        "53",
-        "Konstantin Rakić"
-      ],
-      [
-        "91",
-        "Slava Jelić"
-      ],
-      [
-        "94",
-        "Stjepan Zjacic"
-      ],
-      [
-        "95",
-        "Stojan Kranjc"
-      ]
-    ],
-    "zoneTimes": [
-      {
-        "close": "2018-05-24T14:00:00Z",
-        "open": "2018-05-24T10:00:00Z"
-      },
-      {
-        "close": "2018-05-24T14:00:00Z",
-        "open": "2018-05-24T10:30:00Z"
-      },
-      {
-        "close": "2018-05-24T14:00:00Z",
-        "open": "2018-05-24T10:30:00Z"
-      },
-      {
-        "close": "2018-05-24T14:00:00Z",
-        "open": "2018-05-24T10:30:00Z"
-      },
-      {
-        "close": "2018-05-24T14:00:00Z",
-        "open": "2018-05-24T10:30:00Z"
-      },
-      {
-        "close": "2018-05-24T14:00:00Z",
-        "open": "2018-05-24T10:30:00Z"
-      },
-      {
-        "close": "2018-05-24T14:00:00Z",
-        "open": "2018-05-24T10:30:00Z"
-      },
-      {
-        "close": "2018-05-24T14:00:00Z",
-        "open": "2018-05-24T10:30:00Z"
-      }
-    ]
-  },
-  {
-    "taskName": "Task 2",
-    "zones": {
-      "raw": [
-        {
-          "radius": "400.0 m",
-          "lat": 43.82973,
-          "zoneName": "GS1",
-          "lng": 16.64243
-        },
-        {
-          "radius": "3000.0 m",
-          "lat": 43.84411,
-          "zoneName": "G35",
-          "lng": 16.6599
-        },
-        {
-          "radius": "400.0 m",
-          "lat": 43.82293,
-          "zoneName": "G44",
-          "lng": 16.61629
-        },
-        {
-          "radius": "400.0 m",
-          "lat": 43.79605,
-          "zoneName": "G27",
-          "lng": 16.67223
-        },
-        {
-          "radius": "14000.0 m",
-          "lat": 43.92137,
-          "zoneName": "G41",
-          "lng": 16.46695
-        },
-        {
-          "radius": "400.0 m",
-          "lat": 43.78045,
-          "zoneName": "G10",
-          "lng": 16.65744
-        },
-        {
-          "radius": "400.0 m",
-          "lat": 43.75677,
-          "zoneName": "G39",
-          "lng": 16.62018
-        },
-        {
-          "radius": "1000.0 m",
-          "lat": 43.82293,
-          "zoneName": "G44",
-          "lng": 16.61629
-        },
-        {
-          "radius": "400.0 m",
-          "lat": 43.72975,
-          "zoneName": "G25",
-          "lng": 16.69563
+          "radius": "10000.0 m",
+          "lat": -31.9798,
+          "zoneName": "TRANG",
+          "lng": 148.0035
         }
       ],
       "raceKind": {
         "race-ess-is-goal": {
           "circle": {
-            "radius": "400.0 m",
+            "radius": "10000.0 m",
             "center": [
-              "43.72975000 deg",
-              "16.69563000 deg"
+              "-31.97980000 deg",
+              "148.00350000 deg"
             ]
           }
         },
         "race": [
           {
             "cylinder": {
-              "radius": "3000.0 m",
+              "radius": "10000.0 m",
               "center": [
-                "43.84411000 deg",
-                "16.65990000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "400.0 m",
-              "center": [
-                "43.82293000 deg",
-                "16.61629000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "400.0 m",
-              "center": [
-                "43.79605000 deg",
-                "16.67223000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "14000.0 m",
-              "center": [
-                "43.92137000 deg",
-                "16.46695000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "400.0 m",
-              "center": [
-                "43.78045000 deg",
-                "16.65744000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "400.0 m",
-              "center": [
-                "43.75677000 deg",
-                "16.62018000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "1000.0 m",
-              "center": [
-                "43.82293000 deg",
-                "16.61629000 deg"
+                "-33.35620000 deg",
+                "147.93360000 deg"
               ]
             }
           }
@@ -339,8 +48,8 @@
             "cylinder": {
               "radius": "400.0 m",
               "center": [
-                "43.82973000 deg",
-                "16.64243000 deg"
+                "-33.35620000 deg",
+                "147.93360000 deg"
               ]
             }
           }
@@ -350,76 +59,154 @@
     },
     "speedSection": [
       2,
-      9
+      3
     ],
-    "stopped": {
-      "announced": "2018-05-26T12:10:00Z"
-    },
+    "stopped": null,
     "startGates": [
-      "2018-05-26T11:00:00Z"
+      "2017-12-30T04:00:00Z",
+      "2017-12-30T04:15:00Z",
+      "2017-12-30T04:30:00Z",
+      "2017-12-30T04:45:00Z",
+      "2017-12-30T05:00:00Z",
+      "2017-12-30T05:15:00Z"
     ],
-    "absent": [
-      [
-        "23",
-        "David Šiljeg"
-      ],
-      [
-        "50",
-        "Josip Osmann"
-      ],
-      [
-        "53",
-        "Konstantin Rakić"
-      ],
-      [
-        "82",
-        "Richard Edlinger"
-      ],
-      [
-        "94",
-        "Stjepan Zjacic"
-      ],
-      [
-        "102",
-        "Tomislav Gomerčić"
-      ]
-    ],
+    "absent": [],
     "zoneTimes": [
       {
-        "close": "2018-05-26T14:00:00Z",
-        "open": "2018-05-26T10:00:00Z"
+        "close": "2017-12-30T09:00:00Z",
+        "open": "2017-12-30T01:00:00Z"
       },
       {
-        "close": "2018-05-26T14:00:00Z",
-        "open": "2018-05-26T11:00:00Z"
+        "close": "2017-12-30T09:00:00Z",
+        "open": "2017-12-30T04:00:00Z"
       },
       {
-        "close": "2018-05-26T14:00:00Z",
-        "open": "2018-05-26T11:00:00Z"
+        "close": "2017-12-30T10:00:00Z",
+        "open": "2017-12-30T04:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "task 2",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "10000.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "2000.0 m",
+          "lat": -33.85373,
+          "zoneName": "PINEY",
+          "lng": 147.94195
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": -34.46358,
+          "zoneName": "ATTILA",
+          "lng": 148.70315
+        },
+        {
+          "radius": "1000.0 m",
+          "lat": -34.8188,
+          "zoneName": "BOOKHA",
+          "lng": 148.66808
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "1000.0 m",
+            "center": [
+              "-34.81880000 deg",
+              "148.66808000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "2000.0 m",
+              "center": [
+                "-33.85373000 deg",
+                "147.94195000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "-34.46358000 deg",
+                "148.70315000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      5
+    ],
+    "stopped": null,
+    "startGates": [
+      "2017-12-31T02:30:00Z",
+      "2017-12-31T02:45:00Z",
+      "2017-12-31T03:00:00Z",
+      "2017-12-31T03:15:00Z",
+      "2017-12-31T03:30:00Z"
+    ],
+    "absent": [],
+    "zoneTimes": [
+      {
+        "close": "2017-12-31T09:00:00Z",
+        "open": "2017-12-31T01:00:00Z"
       },
       {
-        "close": "2018-05-26T14:00:00Z",
-        "open": "2018-05-26T11:00:00Z"
+        "close": "2017-12-31T09:00:00Z",
+        "open": "2017-12-31T02:30:00Z"
       },
       {
-        "close": "2018-05-26T14:00:00Z",
-        "open": "2018-05-26T11:00:00Z"
+        "close": "2017-12-31T09:00:00Z",
+        "open": "2017-12-31T02:45:00Z"
       },
       {
-        "close": "2018-05-26T14:00:00Z",
-        "open": "2018-05-26T11:00:00Z"
+        "close": "2017-12-31T09:00:00Z",
+        "open": "2017-12-31T02:45:00Z"
       },
       {
-        "close": "2018-05-26T14:00:00Z",
-        "open": "2018-05-26T11:00:00Z"
-      },
-      {
-        "close": "2018-05-26T14:00:00Z",
-        "open": "2018-05-26T11:00:00Z"
-      },
-      {
-        "close": "2018-05-26T14:00:00Z",
-        "open": "2018-05-26T11:00:00Z"
+        "close": "2017-12-31T10:00:00Z",
+        "open": "2017-12-31T02:45:00Z"
       }
     ]
   },
@@ -429,64 +216,46 @@
       "raw": [
         {
           "radius": "400.0 m",
-          "lat": 43.82973,
-          "zoneName": "GS1",
-          "lng": 16.64243
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
         },
         {
-          "radius": "3000.0 m",
-          "lat": 43.84411,
-          "zoneName": "G35",
-          "lng": 16.6599
-        },
-        {
-          "radius": "400.0 m",
-          "lat": 43.82293,
-          "zoneName": "G44",
-          "lng": 16.61629
-        },
-        {
-          "radius": "14000.0 m",
-          "lat": 43.92137,
-          "zoneName": "G41",
-          "lng": 16.46695
+          "radius": "10000.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
         },
         {
           "radius": "400.0 m",
-          "lat": 43.79605,
-          "zoneName": "G27",
-          "lng": 16.67223
+          "lat": -32.46522,
+          "zoneName": "WELLIN",
+          "lng": 148.9893
         },
         {
-          "radius": "14000.0 m",
-          "lat": 43.92137,
-          "zoneName": "G41",
-          "lng": 16.46695
-        },
-        {
-          "radius": "600.0 m",
-          "lat": 43.75677,
-          "zoneName": "G39",
-          "lng": 16.62018
+          "radius": "400.0 m",
+          "lat": -32.2985,
+          "zoneName": "GULGO",
+          "lng": 149.5573
         }
       ],
       "raceKind": {
         "race-ess-is-goal": {
           "circle": {
-            "radius": "600.0 m",
+            "radius": "400.0 m",
             "center": [
-              "43.75677000 deg",
-              "16.62018000 deg"
+              "-32.29850000 deg",
+              "149.55730000 deg"
             ]
           }
         },
         "race": [
           {
             "cylinder": {
-              "radius": "3000.0 m",
+              "radius": "10000.0 m",
               "center": [
-                "43.84411000 deg",
-                "16.65990000 deg"
+                "-33.35620000 deg",
+                "147.93360000 deg"
               ]
             }
           },
@@ -494,35 +263,8 @@
             "cylinder": {
               "radius": "400.0 m",
               "center": [
-                "43.82293000 deg",
-                "16.61629000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "14000.0 m",
-              "center": [
-                "43.92137000 deg",
-                "16.46695000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "400.0 m",
-              "center": [
-                "43.79605000 deg",
-                "16.67223000 deg"
-              ]
-            }
-          },
-          {
-            "cylinder": {
-              "radius": "14000.0 m",
-              "center": [
-                "43.92137000 deg",
-                "16.46695000 deg"
+                "-32.46522000 deg",
+                "148.98930000 deg"
               ]
             }
           }
@@ -532,8 +274,8 @@
             "cylinder": {
               "radius": "400.0 m",
               "center": [
-                "43.82973000 deg",
-                "16.64243000 deg"
+                "-33.35620000 deg",
+                "147.93360000 deg"
               ]
             }
           }
@@ -543,78 +285,597 @@
     },
     "speedSection": [
       2,
-      7
+      4
     ],
     "stopped": null,
     "startGates": [
-      "2018-05-27T11:00:00Z"
+      "2018-01-01T02:30:00Z",
+      "2018-01-01T02:45:00Z",
+      "2018-01-01T03:00:00Z",
+      "2018-01-01T03:15:00Z",
+      "2018-01-01T03:30:00Z"
     ],
     "absent": [
       [
-        "13",
-        "Balazs Szatmari"
-      ],
-      [
-        "50",
-        "Josip Osmann"
-      ],
-      [
-        "53",
-        "Konstantin Rakić"
-      ],
-      [
-        "82",
-        "Richard Edlinger"
-      ],
-      [
-        "86",
-        "Sandi Krč"
-      ],
-      [
-        "88",
-        "Sandor Roza"
-      ],
-      [
         "94",
-        "Stjepan Zjacic"
+        "Justinas Pleikys"
       ],
       [
-        "102",
-        "Tomislav Gomerčić"
+        "98",
+        "Oyvind Ellefsen"
       ],
       [
-        "113",
-        "Zsolt Sandor"
+        "108",
+        "Peter Adriaans"
       ]
     ],
     "zoneTimes": [
       {
-        "close": "2018-05-27T14:00:00Z",
-        "open": "2018-05-27T09:00:00Z"
+        "close": "2018-01-01T09:00:00Z",
+        "open": "2018-01-01T01:00:00Z"
       },
       {
-        "close": "2018-05-27T14:00:00Z",
-        "open": "2018-05-27T11:00:00Z"
+        "close": "2018-01-01T09:00:00Z",
+        "open": "2018-01-01T02:30:00Z"
       },
       {
-        "close": "2018-05-27T14:00:00Z",
-        "open": "2018-05-27T11:00:00Z"
+        "close": "2018-01-01T09:00:00Z",
+        "open": "2018-01-01T02:30:00Z"
       },
       {
-        "close": "2018-05-27T14:00:00Z",
-        "open": "2018-05-27T11:00:00Z"
+        "close": "2018-01-01T09:00:00Z",
+        "open": "2018-01-01T02:30:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Task 4",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "10000.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "1000.0 m",
+          "lat": -30.7635,
+          "zoneName": "MAN037",
+          "lng": 150.7237
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "1000.0 m",
+            "center": [
+              "-30.76350000 deg",
+              "150.72370000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      3
+    ],
+    "stopped": null,
+    "startGates": [
+      "2018-01-02T02:00:00Z",
+      "2018-01-02T02:15:00Z",
+      "2018-01-02T02:30:00Z",
+      "2018-01-02T02:45:00Z",
+      "2018-01-02T03:00:00Z"
+    ],
+    "absent": [
+      [
+        "107",
+        "Anatoly Reyter"
+      ],
+      [
+        "94",
+        "Justinas Pleikys"
+      ],
+      [
+        "69",
+        "Niki Longshore"
+      ],
+      [
+        "108",
+        "Peter Adriaans"
+      ],
+      [
+        "102",
+        "Robert Davies"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2018-01-02T09:00:00Z",
+        "open": "2018-01-02T01:00:00Z"
       },
       {
-        "close": "2018-05-27T14:00:00Z",
-        "open": "2018-05-27T11:00:00Z"
+        "close": "2018-01-02T09:00:00Z",
+        "open": "2018-01-02T02:00:00Z"
       },
       {
-        "close": "2018-05-27T14:00:00Z",
-        "open": "2018-05-27T11:00:00Z"
+        "close": "2018-01-02T09:00:00Z",
+        "open": "2018-01-02T02:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Task 5",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "10000.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "10000.0 m",
+          "lat": -32.56608,
+          "zoneName": "TOMING",
+          "lng": 148.22657
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.46522,
+          "zoneName": "WELLIN",
+          "lng": 148.9893
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-32.46522000 deg",
+              "148.98930000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "-32.56608000 deg",
+                "148.22657000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "startGates": [
+      "2018-01-03T04:15:00Z",
+      "2018-01-03T04:30:00Z",
+      "2018-01-03T04:45:00Z",
+      "2018-01-03T05:00:00Z",
+      "2018-01-03T05:15:00Z"
+    ],
+    "absent": [
+      [
+        "94",
+        "Justinas Pleikys"
+      ],
+      [
+        "69",
+        "Niki Longshore"
+      ],
+      [
+        "108",
+        "Peter Adriaans"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2018-01-03T09:00:00Z",
+        "open": "2018-01-03T01:00:00Z"
       },
       {
-        "close": "2018-05-27T14:00:00Z",
-        "open": "2018-05-27T11:00:00Z"
+        "close": "2018-01-03T09:00:00Z",
+        "open": "2018-01-03T04:15:00Z"
+      },
+      {
+        "close": "2018-01-03T09:00:00Z",
+        "open": "2018-01-03T04:15:00Z"
+      },
+      {
+        "close": "2018-01-03T10:00:00Z",
+        "open": "2018-01-03T04:15:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Task 6",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "15000.0 m",
+          "lat": -33.9082,
+          "zoneName": "GRENFE",
+          "lng": 148.13425
+        },
+        {
+          "radius": "20000.0 m",
+          "lat": -33.18538,
+          "zoneName": "MANILD",
+          "lng": 148.67978
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "15000.0 m",
+              "center": [
+                "-33.90820000 deg",
+                "148.13425000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "20000.0 m",
+              "center": [
+                "-33.18538000 deg",
+                "148.67978000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      5
+    ],
+    "stopped": null,
+    "startGates": [
+      "2018-01-04T02:50:00Z",
+      "2018-01-04T03:10:00Z",
+      "2018-01-04T03:30:00Z",
+      "2018-01-04T03:50:00Z",
+      "2018-01-04T04:10:00Z"
+    ],
+    "absent": [
+      [
+        "77",
+        "Brodrick Osborne"
+      ],
+      [
+        "4",
+        "Frank Chetcuti"
+      ],
+      [
+        "94",
+        "Justinas Pleikys"
+      ],
+      [
+        "69",
+        "Niki Longshore"
+      ],
+      [
+        "108",
+        "Peter Adriaans"
+      ],
+      [
+        "102",
+        "Robert Davies"
+      ],
+      [
+        "88",
+        "Simon West"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2018-01-04T09:00:00Z",
+        "open": "2018-01-04T01:00:00Z"
+      },
+      {
+        "close": "2018-01-04T09:00:00Z",
+        "open": "2018-01-04T02:50:00Z"
+      },
+      {
+        "close": "2018-01-04T09:00:00Z",
+        "open": "2018-01-04T02:50:00Z"
+      },
+      {
+        "close": "2018-01-04T09:00:00Z",
+        "open": "2018-01-04T02:50:00Z"
+      },
+      {
+        "close": "2018-01-04T09:00:00Z",
+        "open": "2018-01-04T02:50:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Task 7",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "40000.0 m",
+          "lat": -32.46522,
+          "zoneName": "WELLIN",
+          "lng": 148.9893
+        },
+        {
+          "radius": "50000.0 m",
+          "lat": -32.19498,
+          "zoneName": "BUMF",
+          "lng": 147.76218
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.729,
+          "zoneName": "PEAKHI",
+          "lng": 148.2111
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-32.72900000 deg",
+              "148.21110000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "40000.0 m",
+              "center": [
+                "-32.46522000 deg",
+                "148.98930000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "50000.0 m",
+              "center": [
+                "-32.19498000 deg",
+                "147.76218000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      5
+    ],
+    "stopped": null,
+    "startGates": [
+      "2018-01-05T02:40:00Z",
+      "2018-01-05T03:00:00Z",
+      "2018-01-05T03:20:00Z",
+      "2018-01-05T03:40:00Z",
+      "2018-01-05T04:00:00Z"
+    ],
+    "absent": [
+      [
+        "107",
+        "Anatoly Reyter"
+      ],
+      [
+        "32",
+        "Andrew Barnes"
+      ],
+      [
+        "77",
+        "Brodrick Osborne"
+      ],
+      [
+        "55",
+        "Don Cramer"
+      ],
+      [
+        "94",
+        "Justinas Pleikys"
+      ],
+      [
+        "67",
+        "Mark Alton"
+      ],
+      [
+        "69",
+        "Niki Longshore"
+      ],
+      [
+        "108",
+        "Peter Adriaans"
+      ],
+      [
+        "71",
+        "Rob Larkin"
+      ],
+      [
+        "102",
+        "Robert Davies"
+      ],
+      [
+        "86",
+        "Ross Smith"
+      ],
+      [
+        "88",
+        "Simon West"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2018-01-05T09:00:00Z",
+        "open": "2018-01-05T01:00:00Z"
+      },
+      {
+        "close": "2018-01-05T09:00:00Z",
+        "open": "2018-01-05T02:40:00Z"
+      },
+      {
+        "close": "2018-01-05T09:00:00Z",
+        "open": "2018-01-05T02:40:00Z"
+      },
+      {
+        "close": "2018-01-05T09:00:00Z",
+        "open": "2018-01-05T02:40:00Z"
+      },
+      {
+        "close": "2018-01-05T10:00:00Z",
+        "open": "2018-01-05T02:40:00Z"
       }
     ]
   }
