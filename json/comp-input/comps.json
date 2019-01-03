@@ -1,5 +1,6 @@
 {
   "civilId": "12209",
+  "earthMath": "Haversines",
   "discipline": "hg",
   "location": "Forbes, Australia",
   "to": "2018-01-05",
@@ -7,6 +8,15 @@
   "from": "2017-12-28",
   "utcOffset": {
     "timeZoneMinutes": 660
+  },
+  "earth": {
+    "sphere": {
+      "radius": "6371000.0 m"
+    }
+  },
+  "give": {
+    "giveDistance": "5.0 m",
+    "giveFraction": 0.0005
   },
   "scoreBack": "900.000 s"
 }

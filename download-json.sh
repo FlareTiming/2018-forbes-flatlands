@@ -12,17 +12,26 @@ curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/allocat
 curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/validity | jq > json/gap-point/validity.json
 curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/pilots-status | jq > json/gap-point/pilots-status.json
 
+mkdir json/pilot-track
 mkdir json/cross-zone
 mkdir json/task-length
 for t in {1..7}
     do
         mkdir json/cross-zone/$t
         curl -X GET -H "Accept:application/json" http://localhost:3000/cross-zone/$t/pilot-dnf | jq > json/cross-zone/$t/pilot-dnf.json
+        curl -X GET -H "Accept:application/json" http://localhost:3000/cross-zone/$t/pilot-nyp | jq > json/cross-zone/$t/pilot-nyp.json
 
         mkdir json/gap-point/$t
         curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/$t/validity-working | jq > json/gap-point/$t/validity-working.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/$t/score | jq > json/gap-point/$t/score.json
+        curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/$t/pilot-df | jq > json/gap-point/$t/pilot-df.json
 
         mkdir json/task-length/$t
         curl -X GET -H "Accept:application/json" http://localhost:3000/task-length/$t/spherical-edge | jq > json/task-length/$t/spherical-edge.json
+
+        mkdir json/pilot-track/$t
+        for p in {1..108}
+            do
+            curl -X GET -H "Accept:application/json" http://localhost:3000/pilot-track/$t/$p | jq > json/pilot-track/$t/$p.json
+            done
     done
