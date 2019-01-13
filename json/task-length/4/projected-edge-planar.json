@@ -1,0 +1,29 @@
+{
+  "mappedPoints": [
+    {
+      "easting": 586862.427,
+      "northing": 6308834.424
+    },
+    {
+      "easting": 282128.622,
+      "northing": 6594393.297
+    }
+  ],
+  "distance": "390.150120 km",
+  "legsSum": [
+    "390.150120 km"
+  ],
+  "legs": [
+    "390.150120 km"
+  ],
+  "mappedZones": [
+    {
+      "lngZone": 55,
+      "latZone": "H"
+    },
+    {
+      "lngZone": 56,
+      "latZone": "J"
+    }
+  ]
+}

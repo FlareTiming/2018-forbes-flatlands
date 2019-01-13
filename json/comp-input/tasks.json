@@ -76,7 +76,6 @@
       "2017-12-30T05:00:00Z",
       "2017-12-30T05:15:00Z"
     ],
-    "absent": [],
     "zoneTimes": [
       {
         "close": "2017-12-30T09:00:00Z",
@@ -202,7 +201,6 @@
       "2017-12-31T03:15:00Z",
       "2017-12-31T03:30:00Z"
     ],
-    "absent": [],
     "zoneTimes": [
       {
         "close": "2017-12-31T09:00:00Z",
@@ -319,20 +317,6 @@
       "2018-01-01T03:15:00Z",
       "2018-01-01T03:30:00Z"
     ],
-    "absent": [
-      [
-        "94",
-        "Justinas Pleikys"
-      ],
-      [
-        "98",
-        "Oyvind Ellefsen"
-      ],
-      [
-        "108",
-        "Peter Adriaans"
-      ]
-    ],
     "zoneTimes": [
       {
         "close": "2018-01-01T09:00:00Z",
@@ -427,28 +411,6 @@
       "2018-01-02T02:30:00Z",
       "2018-01-02T02:45:00Z",
       "2018-01-02T03:00:00Z"
-    ],
-    "absent": [
-      [
-        "107",
-        "Anatoly Reyter"
-      ],
-      [
-        "94",
-        "Justinas Pleikys"
-      ],
-      [
-        "69",
-        "Niki Longshore"
-      ],
-      [
-        "108",
-        "Peter Adriaans"
-      ],
-      [
-        "102",
-        "Robert Davies"
-      ]
     ],
     "zoneTimes": [
       {
@@ -557,20 +519,6 @@
       "2018-01-03T04:45:00Z",
       "2018-01-03T05:00:00Z",
       "2018-01-03T05:15:00Z"
-    ],
-    "absent": [
-      [
-        "94",
-        "Justinas Pleikys"
-      ],
-      [
-        "69",
-        "Niki Longshore"
-      ],
-      [
-        "108",
-        "Peter Adriaans"
-      ]
     ],
     "zoneTimes": [
       {
@@ -700,36 +648,6 @@
       "2018-01-04T03:30:00Z",
       "2018-01-04T03:50:00Z",
       "2018-01-04T04:10:00Z"
-    ],
-    "absent": [
-      [
-        "77",
-        "Brodrick Osborne"
-      ],
-      [
-        "4",
-        "Frank Chetcuti"
-      ],
-      [
-        "94",
-        "Justinas Pleikys"
-      ],
-      [
-        "69",
-        "Niki Longshore"
-      ],
-      [
-        "108",
-        "Peter Adriaans"
-      ],
-      [
-        "102",
-        "Robert Davies"
-      ],
-      [
-        "88",
-        "Simon West"
-      ]
     ],
     "zoneTimes": [
       {
@@ -863,56 +781,6 @@
       "2018-01-05T03:20:00Z",
       "2018-01-05T03:40:00Z",
       "2018-01-05T04:00:00Z"
-    ],
-    "absent": [
-      [
-        "107",
-        "Anatoly Reyter"
-      ],
-      [
-        "32",
-        "Andrew Barnes"
-      ],
-      [
-        "77",
-        "Brodrick Osborne"
-      ],
-      [
-        "55",
-        "Don Cramer"
-      ],
-      [
-        "94",
-        "Justinas Pleikys"
-      ],
-      [
-        "67",
-        "Mark Alton"
-      ],
-      [
-        "69",
-        "Niki Longshore"
-      ],
-      [
-        "108",
-        "Peter Adriaans"
-      ],
-      [
-        "71",
-        "Rob Larkin"
-      ],
-      [
-        "102",
-        "Robert Davies"
-      ],
-      [
-        "86",
-        "Ross Smith"
-      ],
-      [
-        "88",
-        "Simon West"
-      ]
     ],
     "zoneTimes": [
       {

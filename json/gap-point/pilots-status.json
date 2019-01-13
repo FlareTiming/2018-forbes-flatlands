@@ -6,7 +6,7 @@
     ],
     [
       "DF",
-      "DNF",
+      "DFNoTrack",
       "DF",
       "ABS",
       "DF",
@@ -95,7 +95,7 @@
       "Dale Regehr"
     ],
     [
-      "DNF",
+      "DFNoTrack",
       "DF",
       "DF",
       "DF",
@@ -113,7 +113,7 @@
       "DF",
       "DF",
       "DF",
-      "DNF",
+      "DFNoTrack",
       "NYP",
       "DF",
       "ABS"
@@ -126,9 +126,9 @@
     ],
     [
       "DF",
-      "DNF",
+      "DFNoTrack",
       "DF",
-      "DNF",
+      "DFNoTrack",
       "DF",
       "ABS",
       "DF"
@@ -140,7 +140,7 @@
       "Gavin Myers"
     ],
     [
-      "DNF",
+      "DFNoTrack",
       "DF",
       "DF",
       "DF",
@@ -155,13 +155,13 @@
       "Gennadiy Khramov"
     ],
     [
-      "DNF",
-      "DNF",
-      "DNF",
-      "DNF",
+      "NYP",
+      "DFNoTrack",
+      "NYP",
+      "NYP",
       "DF",
-      "DNF",
-      "DNF"
+      "DFNoTrack",
+      "NYP"
     ]
   ],
   [
@@ -204,7 +204,7 @@
       "DF",
       "DF",
       "DF",
-      "DNF",
+      "NYP",
       "DF",
       "DF"
     ]
@@ -261,7 +261,7 @@
     ],
     [
       "DF",
-      "DNF",
+      "DFNoTrack",
       "ABS",
       "ABS",
       "ABS",
@@ -293,7 +293,7 @@
       "DF",
       "DF",
       "DF",
-      "DNF",
+      "DFNoTrack",
       "DNF",
       "DF",
       "DF"
@@ -324,7 +324,7 @@
       "DF",
       "DF",
       "DF",
-      "DNF",
+      "DFNoTrack",
       "DF",
       "DF"
     ]
@@ -336,7 +336,7 @@
     ],
     [
       "DF",
-      "DNF",
+      "DFNoTrack",
       "DF",
       "DF",
       "DF",
@@ -351,7 +351,7 @@
     ],
     [
       "DF",
-      "DNF",
+      "DFNoTrack",
       "DF",
       "DF",
       "DF",
@@ -443,7 +443,7 @@
       "DF",
       "DF",
       "ABS",
-      "DNF",
+      "DFNoTrack",
       "DF",
       "DF",
       "DF"
@@ -456,7 +456,7 @@
     ],
     [
       "DF",
-      "DNF",
+      "DFNoTrack",
       "ABS",
       "ABS",
       "ABS",
@@ -485,8 +485,8 @@
       "Randal Clotworthy"
     ],
     [
-      "DNF",
-      "DNF",
+      "DFNoTrack",
+      "DFNoTrack",
       "DF",
       "DF",
       "NYP",
@@ -500,13 +500,13 @@
       "Rick Martin"
     ],
     [
-      "DNF",
-      "DNF",
-      "DNF",
-      "DNF",
+      "NYP",
+      "NYP",
+      "NYP",
+      "DFNoTrack",
       "NYP",
       "DF",
-      "DNF"
+      "DFNoTrack"
     ]
   ],
   [
@@ -519,7 +519,7 @@
       "DF",
       "DF",
       "DF",
-      "DNF",
+      "DFNoTrack",
       "DF",
       "ABS"
     ]
@@ -530,7 +530,7 @@
       "Rob de Groot"
     ],
     [
-      "DNF",
+      "DFNoTrack",
       "DF",
       "DF",
       "DF",
@@ -545,8 +545,8 @@
       "Robert Davies"
     ],
     [
-      "DNF",
-      "DNF",
+      "DFNoTrack",
+      "DFNoTrack",
       "DF",
       "ABS",
       "NYP",
@@ -591,10 +591,10 @@
     ],
     [
       "DF",
-      "DNF",
-      "DNF",
-      "DNF",
-      "DNF",
+      "DFNoTrack",
+      "NYP",
+      "DFNoTrack",
+      "NYP",
       "DF",
       "ABS"
     ]
@@ -636,7 +636,7 @@
     ],
     [
       "DF",
-      "DNF",
+      "DFNoTrack",
       "NYP",
       "DF",
       "NYP",
@@ -665,7 +665,7 @@
       "Steve Docherty"
     ],
     [
-      "DNF",
+      "DFNoTrack",
       "DF",
       "DF",
       "DF",
@@ -725,8 +725,8 @@
       "Vic Hare"
     ],
     [
-      "DNF",
-      "DNF",
+      "DFNoTrack",
+      "DFNoTrack",
       "DF",
       "DF",
       "DF",
@@ -740,7 +740,7 @@
       "Wayne Thompson"
     ],
     [
-      "DNF",
+      "DFNoTrack",
       "DF",
       "DF",
       "DF",
@@ -755,7 +755,7 @@
       "Yasuhiro Noma"
     ],
     [
-      "DNF",
+      "DFNoTrack",
       "DF",
       "DF",
       "DF",
@@ -770,7 +770,7 @@
       "Yoko Sano"
     ],
     [
-      "DNF",
+      "DFNoTrack",
       "DF",
       "DF",
       "DF",
