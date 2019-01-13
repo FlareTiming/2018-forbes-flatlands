@@ -20,11 +20,11 @@ for t in {1..7}
     do
         mkdir json/comp-input/$t
         curl -X GET -H "Accept:application/json" http://localhost:3000/comp-input/$t/pilot-abs | jq > json/comp-input/$t/pilot-abs.json
-        curl -X GET -H "Accept:application/json" http://localhost:3000/comp-input/$t/pilot-df | jq > json/comp-input/$t/pilot-df.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/comp-input/$t/pilot-dfnt | jq > json/comp-input/$t/pilot-dfnt.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/comp-input/$t/pilot-dnf | jq > json/comp-input/$t/pilot-dnf.json
 
         mkdir json/gap-point/$t
+        curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/$t/pilot-df | jq > json/gap-point/$t/pilot-df.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/$t/pilot-nyp | jq > json/gap-point/$t/pilot-nyp.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/$t/validity-working | jq > json/gap-point/$t/validity-working.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/$t/score | jq > json/gap-point/$t/score.json
