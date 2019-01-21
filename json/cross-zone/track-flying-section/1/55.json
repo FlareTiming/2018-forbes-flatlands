@@ -1,0 +1,32 @@
+{
+  "scoredSeconds": [
+    0,
+    2342
+  ],
+  "flyingSeconds": [
+    0,
+    2342
+  ],
+  "loggedSeconds": 2372,
+  "loggedTimes": [
+    "2017-12-30T04:43:34Z",
+    "2017-12-30T05:23:06Z"
+  ],
+  "scoredTimes": [
+    "2017-12-30T04:43:34Z",
+    "2017-12-30T05:22:36Z"
+  ],
+  "flyingFixes": [
+    0,
+    2342
+  ],
+  "flyingTimes": [
+    "2017-12-30T04:43:34Z",
+    "2017-12-30T05:22:36Z"
+  ],
+  "scoredFixes": [
+    0,
+    2342
+  ],
+  "loggedFixes": 2373
+}
