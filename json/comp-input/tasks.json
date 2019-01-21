@@ -67,7 +67,10 @@
       2,
       3
     ],
-    "stopped": null,
+    "stopped": {
+      "announced": "2017-12-30T07:23:00Z",
+      "retroactive": "2017-12-30T07:08:00Z"
+    },
     "startGates": [
       "2017-12-30T04:00:00Z",
       "2017-12-30T04:15:00Z",

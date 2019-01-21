@@ -271,6 +271,36 @@
   ],
   [
     [
+      "8",
+      "Gordon Rigg"
+    ],
+    {
+      "breakdown": {
+        "time": 191.5,
+        "reach": 282.221,
+        "distance": 564.442,
+        "leading": 59,
+        "effort": 282.221,
+        "arrival": 12.8
+      },
+      "velocity": {
+        "gs": "2017-12-31T02:45:00Z",
+        "ssVelocity": "41.43 km / h",
+        "ssElapsed": "4.251389 h",
+        "gsElapsed": "4.278611 h",
+        "es": "2017-12-31T07:01:43Z",
+        "ss": "2017-12-31T02:46:38Z",
+        "ssDistance": "176.146 km",
+        "gsVelocity": "41.20 km / h"
+      },
+      "total": 828,
+      "landedDistance": "185.746 km",
+      "place": "10",
+      "reachDistance": "185.746 km"
+    }
+  ],
+  [
+    [
       "69",
       "Niki Longshore"
     ],
@@ -295,7 +325,7 @@
       },
       "total": 813,
       "landedDistance": "185.746 km",
-      "place": "10",
+      "place": "11",
       "reachDistance": "185.746 km"
     }
   ],
@@ -324,36 +354,6 @@
         "gsVelocity": "39.80 km / h"
       },
       "total": 796,
-      "landedDistance": "185.746 km",
-      "place": "11",
-      "reachDistance": "185.746 km"
-    }
-  ],
-  [
-    [
-      "8",
-      "Gordon Rigg"
-    ],
-    {
-      "breakdown": {
-        "time": 191.5,
-        "reach": 282.221,
-        "distance": 564.442,
-        "leading": 12.6,
-        "effort": 282.221,
-        "arrival": 12.8
-      },
-      "velocity": {
-        "gs": "2017-12-31T02:45:00Z",
-        "ssVelocity": "41.43 km / h",
-        "ssElapsed": "4.251389 h",
-        "gsElapsed": "4.278611 h",
-        "es": "2017-12-31T07:01:43Z",
-        "ss": "2017-12-31T02:46:38Z",
-        "ssDistance": "176.146 km",
-        "gsVelocity": "41.20 km / h"
-      },
-      "total": 781,
       "landedDistance": "185.746 km",
       "place": "12",
       "reachDistance": "185.746 km"
