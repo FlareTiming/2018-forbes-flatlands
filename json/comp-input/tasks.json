@@ -71,6 +71,10 @@
       "announced": "2017-12-30T07:23:00Z",
       "retroactive": "2017-12-30T07:08:00Z"
     },
+    "taskTweak": {
+      "arrivalWeightScaling": 0,
+      "leadingWeightScaling": 0
+    },
     "startGates": [
       "2017-12-30T04:00:00Z",
       "2017-12-30T04:15:00Z",
@@ -79,6 +83,7 @@
       "2017-12-30T05:00:00Z",
       "2017-12-30T05:15:00Z"
     ],
+    "penalties": [],
     "zoneTimes": [
       {
         "close": "2017-12-30T09:00:00Z",
@@ -197,12 +202,95 @@
       5
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2017-12-31T02:30:00Z",
       "2017-12-31T02:45:00Z",
       "2017-12-31T03:00:00Z",
       "2017-12-31T03:15:00Z",
       "2017-12-31T03:30:00Z"
+    ],
+    "penalties": [
+      [
+        [
+          "74",
+          "Vic Hare"
+        ],
+        [
+          {
+            "penalty-points": -242
+          }
+        ]
+      ],
+      [
+        [
+          "68",
+          "Neale Halsall"
+        ],
+        [
+          {
+            "penalty-points": -391
+          }
+        ]
+      ],
+      [
+        [
+          "28",
+          "Mikhail Karmazin"
+        ],
+        [
+          {
+            "penalty-points": -253
+          }
+        ]
+      ],
+      [
+        [
+          "107",
+          "Anatoly Reyter"
+        ],
+        [
+          {
+            "penalty-points": -107
+          }
+        ]
+      ],
+      [
+        [
+          "83",
+          "Randal Clotworthy"
+        ],
+        [
+          {
+            "penalty-points": -26
+          }
+        ]
+      ],
+      [
+        [
+          "4",
+          "Frank Chetcuti"
+        ],
+        [
+          {
+            "penalty-points": -176
+          }
+        ]
+      ],
+      [
+        [
+          "86",
+          "Ross Smith"
+        ],
+        [
+          {
+            "penalty-points": -80
+          }
+        ]
+      ]
     ],
     "zoneTimes": [
       {
@@ -313,12 +401,29 @@
       4
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-01-01T02:30:00Z",
       "2018-01-01T02:45:00Z",
       "2018-01-01T03:00:00Z",
       "2018-01-01T03:15:00Z",
       "2018-01-01T03:30:00Z"
+    ],
+    "penalties": [
+      [
+        [
+          "43",
+          "Jonny Durand"
+        ],
+        [
+          {
+            "penalty-points": -704
+          }
+        ]
+      ]
     ],
     "zoneTimes": [
       {
@@ -408,6 +513,10 @@
       3
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-01-02T02:00:00Z",
       "2018-01-02T02:15:00Z",
@@ -415,6 +524,7 @@
       "2018-01-02T02:45:00Z",
       "2018-01-02T03:00:00Z"
     ],
+    "penalties": [],
     "zoneTimes": [
       {
         "close": "2018-01-02T09:00:00Z",
@@ -516,6 +626,10 @@
       4
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-01-03T04:15:00Z",
       "2018-01-03T04:30:00Z",
@@ -523,6 +637,7 @@
       "2018-01-03T05:00:00Z",
       "2018-01-03T05:15:00Z"
     ],
+    "penalties": [],
     "zoneTimes": [
       {
         "close": "2018-01-03T09:00:00Z",
@@ -645,6 +760,10 @@
       5
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-01-04T02:50:00Z",
       "2018-01-04T03:10:00Z",
@@ -652,6 +771,7 @@
       "2018-01-04T03:50:00Z",
       "2018-01-04T04:10:00Z"
     ],
+    "penalties": [],
     "zoneTimes": [
       {
         "close": "2018-01-04T09:00:00Z",
@@ -778,12 +898,29 @@
       5
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-01-05T02:40:00Z",
       "2018-01-05T03:00:00Z",
       "2018-01-05T03:20:00Z",
       "2018-01-05T03:40:00Z",
       "2018-01-05T04:00:00Z"
+    ],
+    "penalties": [
+      [
+        [
+          "85",
+          "Rick Martin"
+        ],
+        [
+          {
+            "penalty-points": 70
+          }
+        ]
+      ]
     ],
     "zoneTimes": [
       {
