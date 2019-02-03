@@ -161,7 +161,7 @@
     ],
     {
       "breakdown": {
-        "time": 218.9,
+        "time": 219,
         "reach": 254.276,
         "distance": 508.552,
         "leading": 63.7,
@@ -172,14 +172,14 @@
       "velocity": {
         "gs": "2018-01-02T02:00:00Z",
         "ssVelocity": "65.33 km / h",
-        "ssElapsed": "5.803889 h",
-        "gsElapsed": "5.811944 h",
-        "es": "2018-01-02T07:48:43Z",
+        "ssElapsed": "5.803333 h",
+        "gsElapsed": "5.811389 h",
+        "es": "2018-01-02T07:48:41Z",
         "ss": "2018-01-02T02:00:29Z",
         "ssDistance": "379.151 km",
         "gsVelocity": "65.20 km / h"
       },
-      "total": 821,
+      "total": 822,
       "landedDistance": "388.751 km",
       "place": "6",
       "reachDistance": "388.751 km"
@@ -234,14 +234,14 @@
       "velocity": {
         "gs": "2018-01-02T02:00:00Z",
         "ssVelocity": "62.89 km / h",
-        "ssElapsed": "6.028611 h",
-        "gsElapsed": "6.047222 h",
-        "es": "2018-01-02T08:02:50Z",
+        "ssElapsed": "6.028333 h",
+        "gsElapsed": "6.046944 h",
+        "es": "2018-01-02T08:02:49Z",
         "ss": "2018-01-02T02:01:07Z",
         "ssDistance": "379.151 km",
         "gsVelocity": "62.70 km / h"
       },
-      "total": 761,
+      "total": 762,
       "landedDistance": "388.751 km",
       "place": "8",
       "reachDistance": "388.751 km"
@@ -265,9 +265,9 @@
       "velocity": {
         "gs": "2018-01-02T02:00:00Z",
         "ssVelocity": "62.80 km / h",
-        "ssElapsed": "6.037778 h",
-        "gsElapsed": "6.045833 h",
-        "es": "2018-01-02T08:02:45Z",
+        "ssElapsed": "6.037500 h",
+        "gsElapsed": "6.045556 h",
+        "es": "2018-01-02T08:02:44Z",
         "ss": "2018-01-02T02:00:29Z",
         "ssDistance": "379.151 km",
         "gsVelocity": "62.70 km / h"
@@ -296,10 +296,10 @@
       "velocity": {
         "gs": "2018-01-02T02:15:00Z",
         "ssVelocity": "61.25 km / h",
-        "ssElapsed": "6.189722 h",
+        "ssElapsed": "6.190000 h",
         "gsElapsed": "6.201111 h",
         "es": "2018-01-02T08:27:04Z",
-        "ss": "2018-01-02T02:15:41Z",
+        "ss": "2018-01-02T02:15:40Z",
         "ssDistance": "379.151 km",
         "gsVelocity": "61.10 km / h"
       },
@@ -482,9 +482,9 @@
       "velocity": {
         "gs": "2018-01-02T02:00:00Z",
         "ssVelocity": "57.36 km / h",
-        "ssElapsed": "6.609722 h",
-        "gsElapsed": "6.717778 h",
-        "es": "2018-01-02T08:43:04Z",
+        "ssElapsed": "6.609444 h",
+        "gsElapsed": "6.717500 h",
+        "es": "2018-01-02T08:43:03Z",
         "ss": "2018-01-02T02:06:29Z",
         "ssDistance": "379.151 km",
         "gsVelocity": "56.40 km / h"
@@ -503,8 +503,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 232.929,
-        "distance": 484.027,
+        "reach": 232.933,
+        "distance": 484.03,
         "leading": 36.7,
         "effort": 251.098,
         "arrival": 0
@@ -521,9 +521,9 @@
         "gsVelocity": null
       },
       "total": 521,
-      "landedDistance": "355.443 km",
+      "landedDistance": "355.448 km",
       "place": "17",
-      "reachDistance": "356.115 km"
+      "reachDistance": "356.120 km"
     }
   ],
   [
@@ -534,8 +534,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 230.694,
-        "distance": 475.434,
+        "reach": 230.697,
+        "distance": 475.438,
         "leading": 41.9,
         "effort": 244.741,
         "arrival": 0
@@ -552,9 +552,9 @@
         "gsVelocity": null
       },
       "total": 517,
-      "landedDistance": "352.658 km",
+      "landedDistance": "352.663 km",
       "place": "18",
-      "reachDistance": "352.697 km"
+      "reachDistance": "352.702 km"
     }
   ],
   [
@@ -565,8 +565,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 225.375,
-        "distance": 460.581,
+        "reach": 225.379,
+        "distance": 460.584,
         "leading": 45.1,
         "effort": 235.205,
         "arrival": 0
@@ -583,9 +583,9 @@
         "gsVelocity": null
       },
       "total": 506,
-      "landedDistance": "343.892 km",
+      "landedDistance": "343.897 km",
       "place": "19",
-      "reachDistance": "344.566 km"
+      "reachDistance": "344.571 km"
     }
   ],
   [
@@ -596,8 +596,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 234.069,
-        "distance": 488.345,
+        "reach": 234.073,
+        "distance": 488.349,
         "leading": 16.5,
         "effort": 254.276,
         "arrival": 0
@@ -614,9 +614,9 @@
         "gsVelocity": null
       },
       "total": 505,
-      "landedDistance": "357.457 km",
+      "landedDistance": "357.462 km",
       "place": "20",
-      "reachDistance": "357.858 km"
+      "reachDistance": "357.863 km"
     }
   ],
   [
@@ -627,8 +627,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 217.853,
-        "distance": 440.344,
+        "reach": 217.856,
+        "distance": 440.347,
         "leading": 10.6,
         "effort": 222.492,
         "arrival": 0
@@ -645,9 +645,9 @@
         "gsVelocity": null
       },
       "total": 451,
-      "landedDistance": "332.648 km",
+      "landedDistance": "332.653 km",
       "place": "21",
-      "reachDistance": "333.065 km"
+      "reachDistance": "333.070 km"
     }
   ],
   [
@@ -658,8 +658,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 211.204,
-        "distance": 417.803,
+        "reach": 211.207,
+        "distance": 417.806,
         "leading": 0,
         "effort": 206.599,
         "arrival": 0
@@ -676,9 +676,9 @@
         "gsVelocity": null
       },
       "total": 418,
-      "landedDistance": "321.748 km",
+      "landedDistance": "321.753 km",
       "place": "22",
-      "reachDistance": "322.900 km"
+      "reachDistance": "322.905 km"
     }
   ],
   [
@@ -689,8 +689,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 202.728,
-        "distance": 390.256,
+        "reach": 202.731,
+        "distance": 390.259,
         "leading": 3.4,
         "effort": 187.529,
         "arrival": 0
@@ -707,9 +707,9 @@
         "gsVelocity": null
       },
       "total": 394,
-      "landedDistance": "309.834 km",
+      "landedDistance": "309.839 km",
       "place": "23",
-      "reachDistance": "309.941 km"
+      "reachDistance": "309.946 km"
     }
   ],
   [
@@ -720,8 +720,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 189.418,
-        "distance": 364.232,
+        "reach": 189.421,
+        "distance": 364.236,
         "leading": 5.3,
         "effort": 174.815,
         "arrival": 0
@@ -738,9 +738,9 @@
         "gsVelocity": null
       },
       "total": 370,
-      "landedDistance": "289.355 km",
+      "landedDistance": "289.360 km",
       "place": "24",
-      "reachDistance": "289.592 km"
+      "reachDistance": "289.597 km"
     }
   ],
   [
@@ -751,8 +751,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 174.882,
-        "distance": 340.161,
+        "reach": 174.885,
+        "distance": 340.165,
         "leading": 0,
         "effort": 165.279,
         "arrival": 0
@@ -769,9 +769,9 @@
         "gsVelocity": null
       },
       "total": 340,
-      "landedDistance": "267.036 km",
+      "landedDistance": "267.041 km",
       "place": "25",
-      "reachDistance": "267.369 km"
+      "reachDistance": "267.374 km"
     }
   ],
   [
@@ -782,8 +782,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 156.172,
-        "distance": 315.095,
+        "reach": 156.176,
+        "distance": 315.098,
         "leading": 15.9,
         "effort": 158.923,
         "arrival": 0
@@ -800,9 +800,9 @@
         "gsVelocity": null
       },
       "total": 331,
-      "landedDistance": "237.741 km",
+      "landedDistance": "237.746 km",
       "place": "26",
-      "reachDistance": "238.765 km"
+      "reachDistance": "238.770 km"
     }
   ],
   [
@@ -813,8 +813,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 152.001,
-        "distance": 304.566,
+        "reach": 152.004,
+        "distance": 304.57,
         "leading": 16.8,
         "effort": 152.566,
         "arrival": 0
@@ -831,9 +831,9 @@
         "gsVelocity": null
       },
       "total": 321,
-      "landedDistance": "231.992 km",
+      "landedDistance": "231.997 km",
       "place": "27",
-      "reachDistance": "232.387 km"
+      "reachDistance": "232.392 km"
     }
   ],
   [
@@ -866,8 +866,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 134.974,
-        "distance": 268.469,
+        "reach": 134.977,
+        "distance": 268.472,
         "leading": 0,
         "effort": 133.495,
         "arrival": 0
@@ -884,9 +884,9 @@
         "gsVelocity": null
       },
       "total": 268,
-      "landedDistance": "206.061 km",
+      "landedDistance": "206.066 km",
       "place": "29",
-      "reachDistance": "206.356 km"
+      "reachDistance": "206.361 km"
     }
   ],
   [
@@ -897,8 +897,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 135.981,
-        "distance": 256.763,
+        "reach": 135.985,
+        "distance": 256.766,
         "leading": 0,
         "effort": 120.781,
         "arrival": 0
@@ -915,9 +915,9 @@
         "gsVelocity": null
       },
       "total": 257,
-      "landedDistance": "205.807 km",
+      "landedDistance": "205.812 km",
       "place": "30",
-      "reachDistance": "207.896 km"
+      "reachDistance": "207.901 km"
     }
   ],
   [
@@ -928,8 +928,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 131.771,
-        "distance": 236.66,
+        "reach": 131.774,
+        "distance": 236.663,
         "leading": 15.9,
         "effort": 104.889,
         "arrival": 0
@@ -941,14 +941,14 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2018-01-02T02:01:48Z",
+        "ss": "2018-01-02T02:01:47Z",
         "ssDistance": null,
         "gsVelocity": null
       },
       "total": 253,
-      "landedDistance": "201.360 km",
+      "landedDistance": "201.365 km",
       "place": "31",
-      "reachDistance": "201.459 km"
+      "reachDistance": "201.464 km"
     }
   ],
   [
@@ -959,8 +959,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 121.491,
-        "distance": 207.309,
+        "reach": 121.494,
+        "distance": 207.312,
         "leading": 0,
         "effort": 85.818,
         "arrival": 0
@@ -977,9 +977,9 @@
         "gsVelocity": null
       },
       "total": 207,
-      "landedDistance": "185.583 km",
+      "landedDistance": "185.588 km",
       "place": "32",
-      "reachDistance": "185.742 km"
+      "reachDistance": "185.747 km"
     }
   ],
   [
@@ -990,8 +990,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 118.308,
-        "distance": 191.412,
+        "reach": 118.311,
+        "distance": 191.416,
         "leading": 0,
         "effort": 73.104,
         "arrival": 0
@@ -1008,9 +1008,9 @@
         "gsVelocity": null
       },
       "total": 191,
-      "landedDistance": "180.428 km",
+      "landedDistance": "180.433 km",
       "place": "33",
-      "reachDistance": "180.876 km"
+      "reachDistance": "180.881 km"
     }
   ],
   [
@@ -1021,8 +1021,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 115.119,
-        "distance": 172.331,
+        "reach": 115.123,
+        "distance": 172.335,
         "leading": 0,
         "effort": 57.212,
         "arrival": 0
@@ -1039,9 +1039,9 @@
         "gsVelocity": null
       },
       "total": 172,
-      "landedDistance": "175.572 km",
+      "landedDistance": "175.577 km",
       "place": "34",
-      "reachDistance": "176.001 km"
+      "reachDistance": "176.006 km"
     }
   ],
   [
@@ -1052,8 +1052,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 89.424,
-        "distance": 127.565,
+        "reach": 89.427,
+        "distance": 127.568,
         "leading": 0,
         "effort": 38.141,
         "arrival": 0
@@ -1070,9 +1070,9 @@
         "gsVelocity": null
       },
       "total": 128,
-      "landedDistance": "135.887 km",
+      "landedDistance": "135.892 km",
       "place": "35",
-      "reachDistance": "136.716 km"
+      "reachDistance": "136.721 km"
     }
   ],
   [
@@ -1083,8 +1083,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 61.642,
-        "distance": 96.605,
+        "reach": 61.645,
+        "distance": 96.608,
         "leading": 0,
         "effort": 34.963,
         "arrival": 0
@@ -1101,9 +1101,9 @@
         "gsVelocity": null
       },
       "total": 97,
-      "landedDistance": "93.199 km",
+      "landedDistance": "93.204 km",
       "place": "36",
-      "reachDistance": "94.242 km"
+      "reachDistance": "94.247 km"
     }
   ],
   [
@@ -1114,8 +1114,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 36.787,
-        "distance": 68.572,
+        "reach": 36.791,
+        "distance": 68.575,
         "leading": 0,
         "effort": 31.785,
         "arrival": 0
@@ -1132,9 +1132,9 @@
         "gsVelocity": null
       },
       "total": 69,
-      "landedDistance": "55.839 km",
+      "landedDistance": "55.844 km",
       "place": "37",
-      "reachDistance": "56.243 km"
+      "reachDistance": "56.248 km"
     }
   ],
   [
@@ -1145,8 +1145,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 37.277,
-        "distance": 62.704,
+        "reach": 37.28,
+        "distance": 62.708,
         "leading": 0,
         "effort": 25.428,
         "arrival": 0
@@ -1163,9 +1163,9 @@
         "gsVelocity": null
       },
       "total": 63,
-      "landedDistance": "55.741 km",
+      "landedDistance": "55.746 km",
       "place": "38",
-      "reachDistance": "56.991 km"
+      "reachDistance": "56.996 km"
     }
   ],
   [
@@ -1176,8 +1176,8 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 36.822,
-        "distance": 52.714,
+        "reach": 36.825,
+        "distance": 52.718,
         "leading": 0,
         "effort": 15.892,
         "arrival": 0
@@ -1194,9 +1194,9 @@
         "gsVelocity": null
       },
       "total": 53,
-      "landedDistance": "55.474 km",
+      "landedDistance": "55.480 km",
       "place": "39",
-      "reachDistance": "56.296 km"
+      "reachDistance": "56.301 km"
     }
   ],
   [
@@ -1225,9 +1225,9 @@
         "gsVelocity": null
       },
       "total": 10,
-      "landedDistance": "2.825 km",
+      "landedDistance": "2.830 km",
       "place": "40=",
-      "reachDistance": "2.999 km"
+      "reachDistance": "3.004 km"
     }
   ],
   [
@@ -1256,9 +1256,9 @@
         "gsVelocity": null
       },
       "total": 10,
-      "landedDistance": "5.124 km",
+      "landedDistance": "5.129 km",
       "place": "40=",
-      "reachDistance": "5.263 km"
+      "reachDistance": "5.268 km"
     }
   ],
   [
