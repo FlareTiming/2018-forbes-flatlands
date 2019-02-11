@@ -1,50 +1,182 @@
 [
-  [
-    "107",
-    "Anatoly Reyter"
-  ],
-  [
-    "4",
-    "Frank Chetcuti"
-  ],
-  [
-    "99",
-    "Gennadiy Khramov"
-  ],
-  [
-    "94",
-    "Justinas Pleikys"
-  ],
-  [
-    "28",
-    "Mikhail Karmazin"
-  ],
-  [
-    "68",
-    "Neale Halsall"
-  ],
-  [
-    "108",
-    "Peter Adriaans"
-  ],
-  [
-    "83",
-    "Randal Clotworthy"
-  ],
-  [
-    "102",
-    "Robert Davies"
-  ],
-  [
-    "86",
-    "Ross Smith"
-  ],
-  [
-    "88",
-    "Simon West"
-  ],
-  [
-    "74",
-    "Vic Hare"
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "107",
+      "Anatoly Reyter"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "4",
+      "Frank Chetcuti"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "99",
+      "Gennadiy Khramov"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "94",
+      "Justinas Pleikys"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "28",
+      "Mikhail Karmazin"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "68",
+      "Neale Halsall"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "108",
+      "Peter Adriaans"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "83",
+      "Randal Clotworthy"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "102",
+      "Robert Davies"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "86",
+      "Ross Smith"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "88",
+      "Simon West"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "185.747000 km"
+    },
+    "pilot": [
+      "74",
+      "Vic Hare"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
 ]

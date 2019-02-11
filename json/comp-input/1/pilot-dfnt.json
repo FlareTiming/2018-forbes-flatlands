@@ -1,42 +1,152 @@
 [
-  [
-    "52",
-    "Dale Regehr"
-  ],
-  [
-    "37",
-    "Gavin Myers"
-  ],
-  [
-    "83",
-    "Randal Clotworthy"
-  ],
-  [
-    "42",
-    "Rob de Groot"
-  ],
-  [
-    "102",
-    "Robert Davies"
-  ],
-  [
-    "36",
-    "Steve Docherty"
-  ],
-  [
-    "74",
-    "Vic Hare"
-  ],
-  [
-    "103",
-    "Wayne Thompson"
-  ],
-  [
-    "75",
-    "Yasuhiro Noma"
-  ],
-  [
-    "6",
-    "Yoko Sano"
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 0.7645913306621088,
+      "awardedMade": "109.150000 km",
+      "awardedTask": "142.756000 km"
+    },
+    "pilot": [
+      "52",
+      "Dale Regehr"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2017-12-30T04:15:30Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "142.756000 km"
+    },
+    "pilot": [
+      "37",
+      "Gavin Myers"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0.4317857042786293,
+      "awardedMade": "61.640000 km",
+      "awardedTask": "142.756000 km"
+    },
+    "pilot": [
+      "83",
+      "Randal Clotworthy"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2017-12-30T05:22:03Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0.8632912101768052,
+      "awardedMade": "123.240000 km",
+      "awardedTask": "142.756000 km"
+    },
+    "pilot": [
+      "42",
+      "Rob de Groot"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2017-12-30T04:15:48Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "142.756000 km"
+    },
+    "pilot": [
+      "102",
+      "Robert Davies"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0.6709350219955729,
+      "awardedMade": "95.780000 km",
+      "awardedTask": "142.756000 km"
+    },
+    "pilot": [
+      "36",
+      "Steve Docherty"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2017-12-30T04:25:03Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0.8349911737510157,
+      "awardedMade": "119.200000 km",
+      "awardedTask": "142.756000 km"
+    },
+    "pilot": [
+      "74",
+      "Vic Hare"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2017-12-30T04:32:32Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0.67611869203396,
+      "awardedMade": "96.520000 km",
+      "awardedTask": "142.756000 km"
+    },
+    "pilot": [
+      "103",
+      "Wayne Thompson"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2017-12-30T04:20:15Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0.8380033063408894,
+      "awardedMade": "119.630000 km",
+      "awardedTask": "142.756000 km"
+    },
+    "pilot": [
+      "75",
+      "Yasuhiro Noma"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2017-12-30T04:15:36Z"
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0.8124352041245202,
+      "awardedMade": "115.980000 km",
+      "awardedTask": "142.756000 km"
+    },
+    "pilot": [
+      "6",
+      "Yoko Sano"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2017-12-30T04:15:42Z"
+    }
+  }
 ]

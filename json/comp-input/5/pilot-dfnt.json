@@ -1,10 +1,32 @@
 [
-  [
-    "80",
-    "Michael Cassells"
-  ],
-  [
-    "71",
-    "Rob Larkin"
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "153.928000 km"
+    },
+    "pilot": [
+      "80",
+      "Michael Cassells"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "153.928000 km"
+    },
+    "pilot": [
+      "71",
+      "Rob Larkin"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
 ]

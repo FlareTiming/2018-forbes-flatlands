@@ -1,6 +1,17 @@
 [
-  [
-    "85",
-    "Rick Martin"
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 0.55203462197566,
+      "awardedMade": "95.030000 km",
+      "awardedTask": "172.145000 km"
+    },
+    "pilot": [
+      "85",
+      "Rick Martin"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": "2018-01-05T02:40:00Z"
+    }
+  }
 ]

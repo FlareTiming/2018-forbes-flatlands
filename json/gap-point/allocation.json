@@ -17,8 +17,7 @@
       "effort": 0.2591,
       "arrival": 0
     },
-    "taskPoints": 1000,
-    "penalties": []
+    "taskPoints": 1000
   },
   {
     "goalRatio": 0.26923077,
@@ -38,8 +37,7 @@
       "effort": 0.2822,
       "arrival": 0.0544
     },
-    "taskPoints": 1000,
-    "penalties": []
+    "taskPoints": 1000
   },
   {
     "goalRatio": 0.60416667,
@@ -59,8 +57,7 @@
       "effort": 0.1949,
       "arrival": 0.0763
     },
-    "taskPoints": 1000,
-    "penalties": []
+    "taskPoints": 1000
   },
   {
     "goalRatio": 0.34042553,
@@ -80,8 +77,7 @@
       "effort": 0.2543,
       "arrival": 0.0614
     },
-    "taskPoints": 1000,
-    "penalties": []
+    "taskPoints": 1000
   },
   {
     "goalRatio": 0.19512195,
@@ -101,8 +97,7 @@
       "effort": 0.318,
       "arrival": 0.0455
     },
-    "taskPoints": 998,
-    "penalties": []
+    "taskPoints": 998
   },
   {
     "goalRatio": 0.53333333,
@@ -122,8 +117,7 @@
       "effort": 0.2051,
       "arrival": 0.0737
     },
-    "taskPoints": 1000,
-    "penalties": []
+    "taskPoints": 1000
   },
   {
     "goalRatio": 0.625,
@@ -143,7 +137,6 @@
       "effort": 0.1926,
       "arrival": 0.0768
     },
-    "taskPoints": 1000,
-    "penalties": []
+    "taskPoints": 1000
   }
 ]

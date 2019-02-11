@@ -1,6 +1,17 @@
 [
-  [
-    "99",
-    "Gennadiy Khramov"
-  ]
+  {
+    "awardedReach": {
+      "awardedFrac": 0,
+      "awardedMade": "0.000000 km",
+      "awardedTask": "166.362000 km"
+    },
+    "pilot": [
+      "99",
+      "Gennadiy Khramov"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
 ]
