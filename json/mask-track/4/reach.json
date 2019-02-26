@@ -1,0 +1,402 @@
+[
+  [
+    [
+      "101",
+      "Oliver Chitty"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "43",
+      "Jonny Durand"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "25",
+      "Tyler Borrdaile"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "27",
+      "Guy Hubbard"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "31",
+      "Trent Brown"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "7",
+      "Olav Opsanger"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "30",
+      "Jason Kath"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "11",
+      "Steve Blenkinsop"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "62",
+      "Josh Woods"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "41",
+      "Tony Armstrong"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "8",
+      "Gordon Rigg"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "76",
+      "Rory Duncan"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "23",
+      "Nils Vesk"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "15",
+      "Ryosuke Hattori"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "36",
+      "Steve Docherty"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "72",
+      "Sasha Serebrennikova"
+    ],
+    {
+      "reach": "388.750522 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "32",
+      "Andrew Barnes"
+    ],
+    {
+      "reach": "357.862522 km",
+      "frac": 0.92054544
+    }
+  ],
+  [
+    [
+      "37",
+      "Gavin Myers"
+    ],
+    {
+      "reach": "356.119522 km",
+      "frac": 0.91606185
+    }
+  ],
+  [
+    [
+      "51",
+      "Craig Taylor"
+    ],
+    {
+      "reach": "352.701522 km",
+      "frac": 0.90726958
+    }
+  ],
+  [
+    [
+      "22",
+      "Rohan Taylor"
+    ],
+    {
+      "reach": "344.570522 km",
+      "frac": 0.88635385
+    }
+  ],
+  [
+    [
+      "80",
+      "Michael Cassells"
+    ],
+    {
+      "reach": "333.069522 km",
+      "frac": 0.85676932
+    }
+  ],
+  [
+    [
+      "77",
+      "Brodrick Osborne"
+    ],
+    {
+      "reach": "322.904522 km",
+      "frac": 0.83062145
+    }
+  ],
+  [
+    [
+      "42",
+      "Rob de Groot"
+    ],
+    {
+      "reach": "309.945522 km",
+      "frac": 0.79728645
+    }
+  ],
+  [
+    [
+      "68",
+      "Neale Halsall"
+    ],
+    {
+      "reach": "289.596522 km",
+      "frac": 0.74494182
+    }
+  ],
+  [
+    [
+      "103",
+      "Wayne Thompson"
+    ],
+    {
+      "reach": "267.373522 km",
+      "frac": 0.68777663
+    }
+  ],
+  [
+    [
+      "34",
+      "Brad Porter"
+    ],
+    {
+      "reach": "238.769522 km",
+      "frac": 0.6141973
+    }
+  ],
+  [
+    [
+      "52",
+      "Dale Regehr"
+    ],
+    {
+      "reach": "232.391522 km",
+      "frac": 0.59779089
+    }
+  ],
+  [
+    [
+      "88",
+      "Simon West"
+    ],
+    {
+      "reach": "207.900522 km",
+      "frac": 0.53479162
+    }
+  ],
+  [
+    [
+      "28",
+      "Mikhail Karmazin"
+    ],
+    {
+      "reach": "206.360522 km",
+      "frac": 0.53083021
+    }
+  ],
+  [
+    [
+      "92",
+      "Attila Bertok"
+    ],
+    {
+      "reach": "201.463522 km",
+      "frac": 0.51823344
+    }
+  ],
+  [
+    [
+      "75",
+      "Yasuhiro Noma"
+    ],
+    {
+      "reach": "185.746522 km",
+      "frac": 0.47780392
+    }
+  ],
+  [
+    [
+      "67",
+      "Mark Alton"
+    ],
+    {
+      "reach": "180.880522 km",
+      "frac": 0.46528689
+    }
+  ],
+  [
+    [
+      "71",
+      "Rob Larkin"
+    ],
+    {
+      "reach": "176.005522 km",
+      "frac": 0.45274672
+    }
+  ],
+  [
+    [
+      "74",
+      "Vic Hare"
+    ],
+    {
+      "reach": "136.720522 km",
+      "frac": 0.35169219
+    }
+  ],
+  [
+    [
+      "106",
+      "Jon Durand Snr"
+    ],
+    {
+      "reach": "94.246522 km",
+      "frac": 0.24243446
+    }
+  ],
+  [
+    [
+      "64",
+      "Longfei Yang"
+    ],
+    {
+      "reach": "56.995522 km",
+      "frac": 0.14661208
+    }
+  ],
+  [
+    [
+      "81",
+      "Nick Purcell"
+    ],
+    {
+      "reach": "56.300522 km",
+      "frac": 0.1448243
+    }
+  ],
+  [
+    [
+      "83",
+      "Randal Clotworthy"
+    ],
+    {
+      "reach": "56.247522 km",
+      "frac": 0.14468797
+    }
+  ],
+  [
+    [
+      "6",
+      "Yoko Sano"
+    ],
+    {
+      "reach": "5.267522 km",
+      "frac": 0.01354988
+    }
+  ],
+  [
+    [
+      "14",
+      "Peter Burkitt"
+    ],
+    {
+      "reach": "3.003522 km",
+      "frac": 0.00772609
+    }
+  ]
+]
