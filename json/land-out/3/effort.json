@@ -1,0 +1,162 @@
+[
+  [
+    [
+      "107",
+      "Anatoly Reyter"
+    ],
+    {
+      "frac": 1,
+      "effort": "191.306000 km"
+    }
+  ],
+  [
+    [
+      "14",
+      "Peter Burkitt"
+    ],
+    {
+      "frac": 0.98245614,
+      "effort": "185.958000 km"
+    }
+  ],
+  [
+    [
+      "71",
+      "Rob Larkin"
+    ],
+    {
+      "frac": 0.94736842,
+      "effort": "181.938000 km"
+    }
+  ],
+  [
+    [
+      "28",
+      "Mikhail Karmazin"
+    ],
+    {
+      "frac": 0.89473684,
+      "effort": "170.886000 km"
+    }
+  ],
+  [
+    [
+      "52",
+      "Dale Regehr"
+    ],
+    {
+      "frac": 0.8245614,
+      "effort": "167.312000 km"
+    }
+  ],
+  [
+    [
+      "74",
+      "Vic Hare"
+    ],
+    {
+      "frac": 0.7368421,
+      "effort": "167.281000 km"
+    }
+  ],
+  [
+    [
+      "67",
+      "Mark Alton"
+    ],
+    {
+      "frac": 0.7368421,
+      "effort": "167.299000 km"
+    }
+  ],
+  [
+    [
+      "64",
+      "Longfei Yang"
+    ],
+    {
+      "frac": 0.63157894,
+      "effort": "149.838000 km"
+    }
+  ],
+  [
+    [
+      "75",
+      "Yasuhiro Noma"
+    ],
+    {
+      "frac": 0.52631578,
+      "effort": "141.461000 km"
+    }
+  ],
+  [
+    [
+      "102",
+      "Robert Davies"
+    ],
+    {
+      "frac": 0.4385965,
+      "effort": "107.632000 km"
+    }
+  ],
+  [
+    [
+      "83",
+      "Randal Clotworthy"
+    ],
+    {
+      "frac": 0.40350878,
+      "effort": "100.631000 km"
+    }
+  ],
+  [
+    [
+      "43",
+      "Jonny Durand"
+    ],
+    {
+      "frac": 0.36842106,
+      "effort": "74.966000 km"
+    }
+  ],
+  [
+    [
+      "101",
+      "Oliver Chitty"
+    ],
+    {
+      "frac": 0.31578948,
+      "effort": "73.253000 km"
+    }
+  ],
+  [
+    [
+      "69",
+      "Niki Longshore"
+    ],
+    {
+      "frac": 0.24561404,
+      "effort": "71.926000 km"
+    }
+  ],
+  [
+    [
+      "27",
+      "Guy Hubbard"
+    ],
+    {
+      "frac": 0.15789474,
+      "effort": "55.856000 km"
+    }
+  ],
+  [
+    [
+      "55",
+      "Don Cramer"
+    ],
+    {
+      "frac": 0.0877193,
+      "effort": "51.035000 km"
+    }
+  ]
+]
