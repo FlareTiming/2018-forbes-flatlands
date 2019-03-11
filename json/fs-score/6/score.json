@@ -1,0 +1,857 @@
+[
+  [
+    [
+      "43",
+      "Jonny Durand"
+    ],
+    {
+      "ssElapsed": "3.566389 h",
+      "time": 412.9,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:23:59Z",
+      "leading": 97.7,
+      "total": 995,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 73.7,
+      "place": "1"
+    }
+  ],
+  [
+    [
+      "30",
+      "Jason Kath"
+    ],
+    {
+      "ssElapsed": "3.664444 h",
+      "time": 355.4,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:29:52Z",
+      "leading": 103.2,
+      "total": 930,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 61.2,
+      "place": "3"
+    }
+  ],
+  [
+    [
+      "86",
+      "Ross Smith"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 61.8,
+      "distanceMade": "27.717000 km",
+      "es": null,
+      "leading": 0,
+      "total": 62,
+      "distanceFrac": 0.16660655678580447,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "43"
+    }
+  ],
+  [
+    [
+      "101",
+      "Oliver Chitty"
+    ],
+    {
+      "ssElapsed": "3.787778 h",
+      "time": 314,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:57:16Z",
+      "leading": 43,
+      "total": 787,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T03:10:00Z",
+      "arrival": 19.6,
+      "place": "11"
+    }
+  ],
+  [
+    [
+      "37",
+      "Gavin Myers"
+    ],
+    {
+      "ssElapsed": "3.911111 h",
+      "time": 280,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:44:40Z",
+      "leading": 73.7,
+      "total": 799,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 34.7,
+      "place": "10"
+    }
+  ],
+  [
+    [
+      "27",
+      "Guy Hubbard"
+    ],
+    {
+      "ssElapsed": "3.782778 h",
+      "time": 315.5,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:36:58Z",
+      "leading": 83.8,
+      "total": 865,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 55.7,
+      "place": "4"
+    }
+  ],
+  [
+    [
+      "75",
+      "Yasuhiro Noma"
+    ],
+    {
+      "ssElapsed": "3.906389 h",
+      "time": 281.2,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:44:23Z",
+      "leading": 83.9,
+      "total": 813,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 38.1,
+      "place": "9"
+    }
+  ],
+  [
+    [
+      "68",
+      "Neale Halsall"
+    ],
+    {
+      "ssElapsed": "4.306389 h",
+      "time": 191.8,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T07:08:23Z",
+      "leading": 48.7,
+      "total": 667,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 16.2,
+      "place": "20"
+    }
+  ],
+  [
+    [
+      "100",
+      "Malcolm Brown"
+    ],
+    {
+      "ssElapsed": "4.086111 h",
+      "time": 238.2,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:55:10Z",
+      "leading": 68.8,
+      "total": 742,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 24.3,
+      "place": "16"
+    }
+  ],
+  [
+    [
+      "81",
+      "Nick Purcell"
+    ],
+    {
+      "ssElapsed": "4.052500 h",
+      "time": 245.8,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:53:09Z",
+      "leading": 53.5,
+      "total": 736,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 26.5,
+      "place": "17"
+    }
+  ],
+  [
+    [
+      "41",
+      "Tony Armstrong"
+    ],
+    {
+      "ssElapsed": "4.109722 h",
+      "time": 232.9,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:56:35Z",
+      "leading": 79.2,
+      "total": 745,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 22.5,
+      "place": "15"
+    }
+  ],
+  [
+    [
+      "32",
+      "Andrew Barnes"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 167.1,
+      "distanceMade": "85.698000 km",
+      "es": null,
+      "leading": 0,
+      "total": 167,
+      "distanceFrac": 0.5151296570130199,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "40"
+    }
+  ],
+  [
+    [
+      "83",
+      "Randal Clotworthy"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 58.8,
+      "distanceMade": "26.525000 km",
+      "es": null,
+      "leading": 0,
+      "total": 59,
+      "distanceFrac": 0.1594414589870283,
+      "ss": "2018-01-04T03:50:00Z",
+      "arrival": 0,
+      "place": "44"
+    }
+  ],
+  [
+    [
+      "76",
+      "Rory Duncan"
+    ],
+    {
+      "ssElapsed": "3.649444 h",
+      "time": 361.4,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:28:58Z",
+      "leading": 92.7,
+      "total": 932,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 67.2,
+      "place": "2"
+    }
+  ],
+  [
+    [
+      "8",
+      "Gordon Rigg"
+    ],
+    {
+      "ssElapsed": "4.134722 h",
+      "time": 227.5,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:58:05Z",
+      "leading": 67.6,
+      "total": 724,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 18.4,
+      "place": "18"
+    }
+  ],
+  [
+    [
+      "34",
+      "Brad Porter"
+    ],
+    {
+      "ssElapsed": "3.873611 h",
+      "time": 289.8,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:42:25Z",
+      "leading": 82.6,
+      "total": 825,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 41.9,
+      "place": "8"
+    }
+  ],
+  [
+    [
+      "36",
+      "Steve Docherty"
+    ],
+    {
+      "ssElapsed": "3.811389 h",
+      "time": 307.1,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:38:41Z",
+      "leading": 81.4,
+      "total": 845,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 46.1,
+      "place": "6"
+    }
+  ],
+  [
+    [
+      "106",
+      "Jon Durand Snr"
+    ],
+    {
+      "ssElapsed": "4.142500 h",
+      "time": 225.8,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:58:33Z",
+      "leading": 70.8,
+      "total": 724,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 17.5,
+      "place": "18"
+    }
+  ],
+  [
+    [
+      "11",
+      "Steve Blenkinsop"
+    ],
+    {
+      "ssElapsed": "3.785278 h",
+      "time": 314.7,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:37:07Z",
+      "leading": 86.5,
+      "total": 862,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 50.7,
+      "place": "5"
+    }
+  ],
+  [
+    [
+      "25",
+      "Tyler Borrdaile"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 351.2,
+      "distanceMade": "127.408000 km",
+      "es": null,
+      "leading": 34.9,
+      "total": 386,
+      "distanceFrac": 0.7658479700893233,
+      "ss": "2018-01-04T03:10:00Z",
+      "arrival": 0,
+      "place": "27"
+    }
+  ],
+  [
+    [
+      "72",
+      "Sasha Serebrennikova"
+    ],
+    {
+      "ssElapsed": "4.613611 h",
+      "time": 134.2,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T07:26:49Z",
+      "leading": 54.2,
+      "total": 614,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 15.3,
+      "place": "23"
+    }
+  ],
+  [
+    [
+      "64",
+      "Longfei Yang"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 375.4,
+      "distanceMade": "138.106000 km",
+      "es": null,
+      "leading": 0,
+      "total": 375,
+      "distanceFrac": 0.8301535206357221,
+      "ss": "2018-01-04T03:10:00Z",
+      "arrival": 0,
+      "place": "28"
+    }
+  ],
+  [
+    [
+      "103",
+      "Wayne Thompson"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 270.2,
+      "distanceMade": "108.953000 km",
+      "es": null,
+      "leading": 0,
+      "total": 270,
+      "distanceFrac": 0.6549151849581034,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "37"
+    }
+  ],
+  [
+    [
+      "22",
+      "Rohan Taylor"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 325.6,
+      "distanceMade": "120.260000 km",
+      "es": null,
+      "leading": 43.2,
+      "total": 369,
+      "distanceFrac": 0.7228814272490112,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "30"
+    }
+  ],
+  [
+    [
+      "92",
+      "Attila Bertok"
+    ],
+    {
+      "ssElapsed": "3.658611 h",
+      "time": 357.7,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:49:31Z",
+      "leading": 47.6,
+      "total": 844,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T03:10:00Z",
+      "arrival": 28.9,
+      "place": "7"
+    }
+  ],
+  [
+    [
+      "14",
+      "Peter Burkitt"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 295.8,
+      "distanceMade": "114.259000 km",
+      "es": null,
+      "leading": 0,
+      "total": 296,
+      "distanceFrac": 0.6868094877435953,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "36"
+    }
+  ],
+  [
+    [
+      "98",
+      "Oyvind Ellefsen"
+    ],
+    {
+      "ssElapsed": "3.810556 h",
+      "time": 307.3,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:58:38Z",
+      "leading": 36.8,
+      "total": 771,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T03:10:00Z",
+      "arrival": 16.8,
+      "place": "14"
+    }
+  ],
+  [
+    [
+      "7",
+      "Olav Opsanger"
+    ],
+    {
+      "ssElapsed": "3.782222 h",
+      "time": 315.6,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:56:56Z",
+      "leading": 37.9,
+      "total": 785,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T03:10:00Z",
+      "arrival": 20.9,
+      "place": "12"
+    }
+  ],
+  [
+    [
+      "80",
+      "Michael Cassells"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 351.9,
+      "distanceMade": "127.666000 km",
+      "es": null,
+      "leading": 39.4,
+      "total": 391,
+      "distanceFrac": 0.7673988050155685,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "26"
+    }
+  ],
+  [
+    [
+      "74",
+      "Vic Hare"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 104,
+      "distanceMade": "48.359000 km",
+      "es": null,
+      "leading": 0,
+      "total": 104,
+      "distanceFrac": 0.29068537286159096,
+      "ss": "2018-01-04T03:10:00Z",
+      "arrival": 0,
+      "place": "41"
+    }
+  ],
+  [
+    [
+      "15",
+      "Ryosuke Hattori"
+    ],
+    {
+      "ssElapsed": "4.969444 h",
+      "time": 74.2,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T08:08:10Z",
+      "leading": 5.6,
+      "total": 505,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T03:10:00Z",
+      "arrival": 14.9,
+      "place": "24"
+    }
+  ],
+  [
+    [
+      "6",
+      "Yoko Sano"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 267.8,
+      "distanceMade": "108.456000 km",
+      "es": null,
+      "leading": 29.7,
+      "total": 298,
+      "distanceFrac": 0.6519277238792512,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "35"
+    }
+  ],
+  [
+    [
+      "85",
+      "Rick Martin"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 341.3,
+      "distanceMade": "124.451000 km",
+      "es": null,
+      "leading": 0,
+      "total": 341,
+      "distanceFrac": 0.748073478318366,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "33"
+    }
+  ],
+  [
+    [
+      "62",
+      "Josh Woods"
+    ],
+    {
+      "ssElapsed": "3.955556 h",
+      "time": 268.8,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T06:47:20Z",
+      "leading": 62.5,
+      "total": 773,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 31.6,
+      "place": "13"
+    }
+  ],
+  [
+    [
+      "42",
+      "Rob de Groot"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 370.3,
+      "distanceMade": "135.020000 km",
+      "es": null,
+      "leading": 21.2,
+      "total": 392,
+      "distanceFrac": 0.8116036114016422,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "25"
+    }
+  ],
+  [
+    [
+      "28",
+      "Mikhail Karmazin"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 323.3,
+      "distanceMade": "119.725000 km",
+      "es": null,
+      "leading": 33.3,
+      "total": 357,
+      "distanceFrac": 0.7196655486228827,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "31"
+    }
+  ],
+  [
+    [
+      "23",
+      "Nils Vesk"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 279.2,
+      "distanceMade": "110.896000 km",
+      "es": null,
+      "leading": 47.1,
+      "total": 326,
+      "distanceFrac": 0.666594534809632,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "34"
+    }
+  ],
+  [
+    [
+      "31",
+      "Trent Brown"
+    ],
+    {
+      "ssElapsed": "4.682222 h",
+      "time": 122.1,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T07:30:56Z",
+      "leading": 80.9,
+      "total": 628,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 15.1,
+      "place": "21"
+    }
+  ],
+  [
+    [
+      "52",
+      "Dale Regehr"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 370.2,
+      "distanceMade": "134.970000 km",
+      "es": null,
+      "leading": 0,
+      "total": 370,
+      "distanceFrac": 0.8113030619973312,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "29"
+    }
+  ],
+  [
+    [
+      "107",
+      "Anatoly Reyter"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 324.3,
+      "distanceMade": "119.957000 km",
+      "es": null,
+      "leading": 24.4,
+      "total": 349,
+      "distanceFrac": 0.7210600978588861,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "32"
+    }
+  ],
+  [
+    [
+      "51",
+      "Craig Taylor"
+    ],
+    {
+      "ssElapsed": "4.580556 h",
+      "time": 140.1,
+      "distance": 410.2,
+      "distanceMade": "166.362000 km",
+      "es": "2018-01-04T07:24:50Z",
+      "leading": 49.6,
+      "total": 616,
+      "distanceFrac": 1,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 15.7,
+      "place": "22"
+    }
+  ],
+  [
+    [
+      "99",
+      "Gennadiy Khramov"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 22.2,
+      "distanceMade": "10.000000 km",
+      "es": null,
+      "leading": 0,
+      "total": 22,
+      "distanceFrac": 0.06010988086221613,
+      "ss": null,
+      "arrival": 0,
+      "place": "45"
+    }
+  ],
+  [
+    [
+      "71",
+      "Rob Larkin"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 102,
+      "distanceMade": "47.081000 km",
+      "es": null,
+      "leading": 0,
+      "total": 102,
+      "distanceFrac": 0.28300333008739975,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "42"
+    }
+  ],
+  [
+    [
+      "67",
+      "Mark Alton"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 207,
+      "distanceMade": "96.771000 km",
+      "es": null,
+      "leading": 0,
+      "total": 207,
+      "distanceFrac": 0.5816893280917517,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "39"
+    }
+  ],
+  [
+    [
+      "55",
+      "Don Cramer"
+    ],
+    {
+      "ssElapsed": null,
+      "time": 0,
+      "distance": 262.9,
+      "distanceMade": "107.560000 km",
+      "es": null,
+      "leading": 0,
+      "total": 263,
+      "distanceFrac": 0.6465418785539967,
+      "ss": "2018-01-04T02:50:00Z",
+      "arrival": 0,
+      "place": "38"
+    }
+  ]
+]
