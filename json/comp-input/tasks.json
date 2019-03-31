@@ -16,7 +16,7 @@
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "9995.0 m",
+          "give": null,
           "alt": "230.000 m"
         },
         {
@@ -24,7 +24,7 @@
           "lat": -31.9798,
           "zoneName": "TRANG",
           "lng": 148.0035,
-          "give": "10005.0 m",
+          "give": null,
           "alt": "213.000 m"
         }
       ],
@@ -116,7 +116,7 @@
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "9995.0 m",
+          "give": null,
           "alt": "245.000 m"
         },
         {
@@ -124,7 +124,7 @@
           "lat": -33.85373,
           "zoneName": "PINEY",
           "lng": 147.94195,
-          "give": "2005.0 m",
+          "give": null,
           "alt": "279.000 m"
         },
         {
@@ -132,7 +132,7 @@
           "lat": -34.46358,
           "zoneName": "ATTILA",
           "lng": 148.70315,
-          "give": "5005.0 m",
+          "give": null,
           "alt": "518.000 m"
         },
         {
@@ -140,7 +140,7 @@
           "lat": -34.8188,
           "zoneName": "BOOKHA",
           "lng": 148.66808,
-          "give": "1005.0 m",
+          "give": null,
           "alt": "515.000 m"
         }
       ],
@@ -339,7 +339,7 @@
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "9995.0 m",
+          "give": null,
           "alt": "230.000 m"
         },
         {
@@ -347,7 +347,7 @@
           "lat": -32.46522,
           "zoneName": "WELLIN",
           "lng": 148.9893,
-          "give": "405.0 m",
+          "give": null,
           "alt": "395.000 m"
         },
         {
@@ -355,7 +355,7 @@
           "lat": -32.2985,
           "zoneName": "GULGO",
           "lng": 149.5573,
-          "give": "405.0 m",
+          "give": null,
           "alt": "445.000 m"
         }
       ],
@@ -469,7 +469,7 @@
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "9995.0 m",
+          "give": null,
           "alt": "230.000 m"
         },
         {
@@ -477,7 +477,7 @@
           "lat": -30.7635,
           "zoneName": "MAN037",
           "lng": 150.7237,
-          "give": "1005.0 m",
+          "give": null,
           "alt": "370.000 m"
         }
       ],
@@ -565,7 +565,7 @@
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "9995.0 m",
+          "give": null,
           "alt": "230.000 m"
         },
         {
@@ -573,7 +573,7 @@
           "lat": -32.56608,
           "zoneName": "TOMING",
           "lng": 148.22657,
-          "give": "10005.0 m",
+          "give": null,
           "alt": "278.000 m"
         },
         {
@@ -581,7 +581,7 @@
           "lat": -32.46522,
           "zoneName": "WELLIN",
           "lng": 148.9893,
-          "give": "405.0 m",
+          "give": null,
           "alt": "395.000 m"
         }
       ],
@@ -682,7 +682,7 @@
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "4995.0 m",
+          "give": null,
           "alt": "230.000 m"
         },
         {
@@ -690,7 +690,7 @@
           "lat": -33.9082,
           "zoneName": "GRENFE",
           "lng": 148.13425,
-          "give": "15007.5 m",
+          "give": null,
           "alt": "369.000 m"
         },
         {
@@ -698,7 +698,7 @@
           "lat": -33.18538,
           "zoneName": "MANILD",
           "lng": 148.67978,
-          "give": "20010.0 m",
+          "give": null,
           "alt": "440.000 m"
         },
         {
@@ -706,7 +706,7 @@
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "405.0 m",
+          "give": null,
           "alt": "230.000 m"
         }
       ],
@@ -820,7 +820,7 @@
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "4995.0 m",
+          "give": null,
           "alt": "230.000 m"
         },
         {
@@ -828,7 +828,7 @@
           "lat": -32.46522,
           "zoneName": "WELLIN",
           "lng": 148.9893,
-          "give": "40020.0 m",
+          "give": null,
           "alt": "395.000 m"
         },
         {
@@ -836,7 +836,7 @@
           "lat": -32.19498,
           "zoneName": "BUMF",
           "lng": 147.76218,
-          "give": "50025.0 m",
+          "give": null,
           "alt": "211.000 m"
         },
         {
@@ -844,7 +844,7 @@
           "lat": -32.729,
           "zoneName": "PEAKHI",
           "lng": 148.2111,
-          "give": "405.0 m",
+          "give": null,
           "alt": "285.000 m"
         }
       ],
