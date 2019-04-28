@@ -6,7 +6,7 @@
     ],
     {
       "frac": 1,
-      "effort": "134.471000 km"
+      "effort": "134.449000 km"
     }
   ],
   [
@@ -15,8 +15,8 @@
       "Rory Duncan"
     ],
     {
-      "frac": 0.98550724,
-      "effort": "126.721000 km"
+      "frac": 0.98387096,
+      "effort": "126.694000 km"
     }
   ],
   [
@@ -25,8 +25,8 @@
       "Mikhail Karmazin"
     ],
     {
-      "frac": 0.95652174,
-      "effort": "115.933000 km"
+      "frac": 0.9516129,
+      "effort": "115.911000 km"
     }
   ],
   [
@@ -35,8 +35,8 @@
       "Wayne Thompson"
     ],
     {
-      "frac": 0.91304348,
-      "effort": "115.281000 km"
+      "frac": 0.9032258,
+      "effort": "115.267000 km"
     }
   ],
   [
@@ -45,8 +45,8 @@
       "Michael Cassells"
     ],
     {
-      "frac": 0.85507246,
-      "effort": "110.028000 km"
+      "frac": 0.83870968,
+      "effort": "110.016000 km"
     }
   ],
   [
@@ -55,8 +55,8 @@
       "Frank Chetcuti"
     ],
     {
-      "frac": 0.7826087,
-      "effort": "107.601000 km"
+      "frac": 0.75806452,
+      "effort": "107.582000 km"
     }
   ],
   [
@@ -65,8 +65,8 @@
       "Nils Vesk"
     ],
     {
-      "frac": 0.69565218,
-      "effort": "104.687000 km"
+      "frac": 0.66129032,
+      "effort": "104.670000 km"
     }
   ],
   [
@@ -75,8 +75,8 @@
       "Rick Martin"
     ],
     {
-      "frac": 0.5942029,
-      "effort": "95.031000 km"
+      "frac": 0.5483871,
+      "effort": "95.021000 km"
     }
   ],
   [
@@ -85,8 +85,8 @@
       "Randal Clotworthy"
     ],
     {
-      "frac": 0.49275362,
-      "effort": "93.236000 km"
+      "frac": 0.43548388,
+      "effort": "93.216000 km"
     }
   ],
   [
@@ -95,18 +95,8 @@
       "Steve Docherty"
     ],
     {
-      "frac": 0.39130434,
-      "effort": "73.431000 km"
-    }
-  ],
-  [
-    [
-      "34",
-      "Brad Porter"
-    ],
-    {
-      "frac": 0.33333334,
-      "effort": "67.108000 km"
+      "frac": 0.32258064,
+      "effort": "73.416000 km"
     }
   ],
   [
@@ -115,8 +105,8 @@
       "Jon Durand Snr"
     ],
     {
-      "frac": 0.27536232,
-      "effort": "67.029000 km"
+      "frac": 0.25806452,
+      "effort": "67.010000 km"
     }
   ],
   [
@@ -125,8 +115,18 @@
       "Tyler Borrdaile"
     ],
     {
-      "frac": 0.27536232,
-      "effort": "67.061000 km"
+      "frac": 0.25806452,
+      "effort": "67.042000 km"
+    }
+  ],
+  [
+    [
+      "34",
+      "Brad Porter"
+    ],
+    {
+      "frac": 0.25806452,
+      "effort": "67.090000 km"
     }
   ],
   [
@@ -135,8 +135,8 @@
       "Longfei Yang"
     ],
     {
-      "frac": 0.20289856,
-      "effort": "63.566000 km"
+      "frac": 0.19354838,
+      "effort": "63.545000 km"
     }
   ],
   [
@@ -145,8 +145,8 @@
       "Oyvind Ellefsen"
     ],
     {
-      "frac": 0.11594202,
-      "effort": "56.236000 km"
+      "frac": 0.11290322,
+      "effort": "56.223000 km"
     }
   ],
   [
@@ -155,8 +155,8 @@
       "Peter Burkitt"
     ],
     {
-      "frac": 0.04347826,
-      "effort": "31.626000 km"
+      "frac": 0.0483871,
+      "effort": "31.610000 km"
     }
   ]
 ]
