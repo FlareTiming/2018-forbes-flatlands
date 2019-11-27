@@ -1,25 +1,36 @@
 {
   "mappedPoints": [
     {
-      "easting": 586862.427,
-      "northing": 6308834.424
+      "easting": 587138.097,
+      "northing": 6309123.885
     },
     {
-      "easting": 282128.622,
-      "northing": 6594393.297
+      "easting": 593754.142,
+      "northing": 6316071.029
+    },
+    {
+      "easting": 281487.787,
+      "northing": 6593626.459
     }
   ],
   "flipSum": [
-    "390.150120 km"
+    "388.750241 km",
+    "379.150241 km"
   ],
-  "distance": "390.150120 km",
+  "distance": "388.750241 km",
   "legsSum": [
-    "390.150120 km"
+    "9.600000 km",
+    "388.750241 km"
   ],
   "legs": [
-    "390.150120 km"
+    "9.600000 km",
+    "379.150241 km"
   ],
   "mappedZones": [
+    {
+      "lngZone": 55,
+      "latZone": "H"
+    },
     {
       "lngZone": 55,
       "latZone": "H"

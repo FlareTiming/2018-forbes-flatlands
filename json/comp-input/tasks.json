@@ -4,27 +4,30 @@
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "395.0 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "9950.0 m",
           "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": null,
           "alt": "230.000 m"
         },
         {
+          "giveIn": "9950.0 m",
           "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
           "lat": -31.9798,
           "zoneName": "TRANG",
           "lng": 148.0035,
-          "give": null,
           "alt": "213.000 m"
         }
       ],
@@ -97,50 +100,59 @@
         "close": "2017-12-30T10:00:00Z",
         "open": "2017-12-30T04:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "600 s"
+    }
   },
   {
     "taskName": "task 2",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "395.0 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "9950.0 m",
           "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": null,
           "alt": "245.000 m"
         },
         {
+          "giveIn": "1990.0 m",
           "radius": "2000.0 m",
+          "giveOut": "2010.0 m",
           "lat": -33.85373,
           "zoneName": "PINEY",
           "lng": 147.94195,
-          "give": null,
           "alt": "279.000 m"
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": -34.46358,
           "zoneName": "ATTILA",
           "lng": 148.70315,
-          "give": null,
           "alt": "518.000 m"
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": -34.8188,
           "zoneName": "BOOKHA",
           "lng": 148.66808,
-          "give": null,
           "alt": "515.000 m"
         }
       ],
@@ -320,42 +332,50 @@
         "close": "2017-12-31T10:00:00Z",
         "open": "2017-12-31T02:45:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "600 s"
+    }
   },
   {
     "taskName": "Task 3",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "395.0 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "9950.0 m",
           "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": null,
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.46522,
           "zoneName": "WELLIN",
           "lng": 148.9893,
-          "give": null,
           "alt": "395.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.2985,
           "zoneName": "GULGO",
           "lng": 149.5573,
-          "give": null,
           "alt": "445.000 m"
         }
       ],
@@ -450,34 +470,41 @@
         "close": "2018-01-01T09:00:00Z",
         "open": "2018-01-01T02:30:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "600 s"
+    }
   },
   {
     "taskName": "Task 4",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "395.0 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "9950.0 m",
           "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": null,
           "alt": "230.000 m"
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": -30.7635,
           "zoneName": "MAN037",
           "lng": 150.7237,
-          "give": null,
           "alt": "370.000 m"
         }
       ],
@@ -546,42 +573,50 @@
         "close": "2018-01-02T09:00:00Z",
         "open": "2018-01-02T02:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "600 s"
+    }
   },
   {
     "taskName": "Task 5",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "395.0 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "9950.0 m",
           "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": null,
           "alt": "230.000 m"
         },
         {
+          "giveIn": "9950.0 m",
           "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
           "lat": -32.56608,
           "zoneName": "TOMING",
           "lng": 148.22657,
-          "give": null,
           "alt": "278.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.46522,
           "zoneName": "WELLIN",
           "lng": 148.9893,
-          "give": null,
           "alt": "395.000 m"
         }
       ],
@@ -663,50 +698,59 @@
         "close": "2018-01-03T10:00:00Z",
         "open": "2018-01-03T04:15:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "600 s"
+    }
   },
   {
     "taskName": "Task 6",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "395.0 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": null,
           "alt": "230.000 m"
         },
         {
+          "giveIn": "14925.0 m",
           "radius": "15000.0 m",
+          "giveOut": "15075.0 m",
           "lat": -33.9082,
           "zoneName": "GRENFE",
           "lng": 148.13425,
-          "give": null,
           "alt": "369.000 m"
         },
         {
+          "giveIn": "19900.0 m",
           "radius": "20000.0 m",
+          "giveOut": "20100.0 m",
           "lat": -33.18538,
           "zoneName": "MANILD",
           "lng": 148.67978,
-          "give": null,
           "alt": "440.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": null,
           "alt": "230.000 m"
         }
       ],
@@ -801,50 +845,59 @@
         "close": "2018-01-04T09:00:00Z",
         "open": "2018-01-04T02:50:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "600 s"
+    }
   },
   {
     "taskName": "Task 7",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "395.0 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": null,
           "alt": "230.000 m"
         },
         {
+          "giveIn": "39800.0 m",
           "radius": "40000.0 m",
+          "giveOut": "40200.0 m",
           "lat": -32.46522,
           "zoneName": "WELLIN",
           "lng": 148.9893,
-          "give": null,
           "alt": "395.000 m"
         },
         {
+          "giveIn": "49750.0 m",
           "radius": "50000.0 m",
+          "giveOut": "50250.0 m",
           "lat": -32.19498,
           "zoneName": "BUMF",
           "lng": 147.76218,
-          "give": null,
           "alt": "211.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.729,
           "zoneName": "PEAKHI",
           "lng": 148.2111,
-          "give": null,
           "alt": "285.000 m"
         }
       ],
@@ -952,6 +1005,10 @@
         "close": "2018-01-05T10:00:00Z",
         "open": "2018-01-05T02:40:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "600 s"
+    }
   }
 ]

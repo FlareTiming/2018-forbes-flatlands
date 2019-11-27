@@ -1,18 +1,10 @@
 {
-  "scoredSeconds": [
-    0,
-    19389
-  ],
   "flyingSeconds": [
     0,
     19389
   ],
   "loggedSeconds": 19389,
   "loggedTimes": [
-    "2018-01-02T00:48:25Z",
-    "2018-01-02T06:11:34Z"
-  ],
-  "scoredTimes": [
     "2018-01-02T00:48:25Z",
     "2018-01-02T06:11:34Z"
   ],
@@ -23,10 +15,6 @@
   "flyingTimes": [
     "2018-01-02T00:48:25Z",
     "2018-01-02T06:11:34Z"
-  ],
-  "scoredFixes": [
-    0,
-    1918
   ],
   "loggedFixes": 1919
 }

@@ -15,8 +15,8 @@
     }
   },
   "give": {
-    "giveDistance": "5.0 m",
-    "giveFraction": 0.0005
+    "giveDistance": null,
+    "giveFraction": 0.005
   },
   "scoreBack": "900.000 s"
 }

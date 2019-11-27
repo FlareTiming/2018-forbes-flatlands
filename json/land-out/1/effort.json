@@ -6,7 +6,7 @@
     ],
     {
       "frac": 1,
-      "effort": "123.268000 km"
+      "effort": "123.269000 km"
     }
   ],
   [
@@ -15,8 +15,8 @@
       "Yasuhiro Noma"
     ],
     {
-      "frac": 0.99253732,
-      "effort": "119.657000 km"
+      "frac": 0.99132322,
+      "effort": "119.658000 km"
     }
   ],
   [
@@ -25,8 +25,8 @@
       "Vic Hare"
     ],
     {
-      "frac": 0.97761194,
-      "effort": "119.227000 km"
+      "frac": 0.98939504,
+      "effort": "119.228000 km"
     }
   ],
   [
@@ -35,38 +35,8 @@
       "Yoko Sano"
     ],
     {
-      "frac": 0.95522388,
-      "effort": "116.006000 km"
-    }
-  ],
-  [
-    [
-      "108",
-      "Peter Adriaans"
-    ],
-    {
-      "frac": 0.92537314,
-      "effort": "115.766000 km"
-    }
-  ],
-  [
-    [
-      "15",
-      "Ryosuke Hattori"
-    ],
-    {
-      "frac": 0.8880597,
-      "effort": "111.705000 km"
-    }
-  ],
-  [
-    [
-      "41",
-      "Tony Armstrong"
-    ],
-    {
-      "frac": 0.84328358,
-      "effort": "111.388000 km"
+      "frac": 0.96625692,
+      "effort": "116.007000 km"
     }
   ],
   [
@@ -75,38 +45,18 @@
       "Dale Regehr"
     ],
     {
-      "frac": 0.79104478,
+      "frac": 0.90238612,
       "effort": "109.175000 km"
     }
   ],
   [
     [
-      "32",
-      "Andrew Barnes"
+      "41",
+      "Tony Armstrong"
     ],
     {
-      "frac": 0.73880598,
-      "effort": "106.913000 km"
-    }
-  ],
-  [
-    [
-      "72",
-      "Sasha Serebrennikova"
-    ],
-    {
-      "frac": 0.67910448,
-      "effort": "106.214000 km"
-    }
-  ],
-  [
-    [
-      "68",
-      "Neale Halsall"
-    ],
-    {
-      "frac": 0.61940298,
-      "effort": "99.038000 km"
+      "frac": 0.846228,
+      "effort": "97.393000 km"
     }
   ],
   [
@@ -115,7 +65,7 @@
       "Wayne Thompson"
     ],
     {
-      "frac": 0.57462686,
+      "frac": 0.84237166,
       "effort": "96.542000 km"
     }
   ],
@@ -125,18 +75,28 @@
       "Steve Docherty"
     ],
     {
-      "frac": 0.53731344,
+      "frac": 0.83803326,
       "effort": "95.802000 km"
     }
   ],
   [
     [
-      "28",
-      "Mikhail Karmazin"
+      "72",
+      "Sasha Serebrennikova"
     ],
     {
-      "frac": 0.5,
-      "effort": "82.733000 km"
+      "frac": 0.74933718,
+      "effort": "79.401000 km"
+    }
+  ],
+  [
+    [
+      "108",
+      "Peter Adriaans"
+    ],
+    {
+      "frac": 0.74138346,
+      "effort": "76.166000 km"
     }
   ],
   [
@@ -145,8 +105,8 @@
       "Longfei Yang"
     ],
     {
-      "frac": 0.49253732,
-      "effort": "70.296000 km"
+      "frac": 0.71342492,
+      "effort": "70.346000 km"
     }
   ],
   [
@@ -155,8 +115,18 @@
       "Oyvind Ellefsen"
     ],
     {
-      "frac": 0.47761194,
-      "effort": "67.143000 km"
+      "frac": 0.69028682,
+      "effort": "67.194000 km"
+    }
+  ],
+  [
+    [
+      "68",
+      "Neale Halsall"
+    ],
+    {
+      "frac": 0.6770306,
+      "effort": "65.597000 km"
     }
   ],
   [
@@ -165,18 +135,28 @@
       "Jonny Durand"
     ],
     {
-      "frac": 0.46268656,
-      "effort": "65.448000 km"
+      "frac": 0.67606652,
+      "effort": "65.499000 km"
     }
   ],
   [
     [
-      "107",
-      "Anatoly Reyter"
+      "15",
+      "Ryosuke Hattori"
     ],
     {
-      "frac": 0.4402985,
-      "effort": "62.664000 km"
+      "frac": 0.65678476,
+      "effort": "63.835000 km"
+    }
+  ],
+  [
+    [
+      "32",
+      "Andrew Barnes"
+    ],
+    {
+      "frac": 0.63943118,
+      "effort": "62.549000 km"
     }
   ],
   [
@@ -185,7 +165,7 @@
       "Randal Clotworthy"
     ],
     {
-      "frac": 0.41044776,
+      "frac": 0.626416,
       "effort": "61.654000 km"
     }
   ],
@@ -195,8 +175,8 @@
       "Frank Chetcuti"
     ],
     {
-      "frac": 0.37313432,
-      "effort": "56.091000 km"
+      "frac": 0.53651482,
+      "effort": "56.142000 km"
     }
   ],
   [
@@ -205,8 +185,18 @@
       "Michael Cassells"
     ],
     {
-      "frac": 0.3358209,
-      "effort": "55.904000 km"
+      "frac": 0.52133044,
+      "effort": "55.233000 km"
+    }
+  ],
+  [
+    [
+      "107",
+      "Anatoly Reyter"
+    ],
+    {
+      "frac": 0.4680646,
+      "effort": "52.130000 km"
     }
   ],
   [
@@ -215,8 +205,18 @@
       "Rob Larkin"
     ],
     {
-      "frac": 0.29104478,
-      "effort": "51.415000 km"
+      "frac": 0.45794168,
+      "effort": "51.466000 km"
+    }
+  ],
+  [
+    [
+      "28",
+      "Mikhail Karmazin"
+    ],
+    {
+      "frac": 0.42178838,
+      "effort": "48.918000 km"
     }
   ],
   [
@@ -225,8 +225,8 @@
       "Ross Smith"
     ],
     {
-      "frac": 0.25373134,
-      "effort": "48.228000 km"
+      "frac": 0.41383466,
+      "effort": "48.393000 km"
     }
   ],
   [
@@ -235,8 +235,8 @@
       "Malcolm Brown"
     ],
     {
-      "frac": 0.2238806,
-      "effort": "29.380000 km"
+      "frac": 0.27934442,
+      "effort": "29.431000 km"
     }
   ],
   [
@@ -245,8 +245,8 @@
       "Brad Porter"
     ],
     {
-      "frac": 0.21641792,
-      "effort": "26.269000 km"
+      "frac": 0.27187274,
+      "effort": "26.320000 km"
     }
   ],
   [
@@ -255,8 +255,8 @@
       "Peter Burkitt"
     ],
     {
-      "frac": 0.20149254,
-      "effort": "23.761000 km"
+      "frac": 0.25982164,
+      "effort": "23.812000 km"
     }
   ],
   [
@@ -265,8 +265,8 @@
       "Mark Alton"
     ],
     {
-      "frac": 0.17910448,
-      "effort": "23.283000 km"
+      "frac": 0.25620632,
+      "effort": "23.333000 km"
     }
   ],
   [
@@ -275,8 +275,8 @@
       "Simon West"
     ],
     {
-      "frac": 0.14925374,
-      "effort": "17.477000 km"
+      "frac": 0.20028922,
+      "effort": "17.528000 km"
     }
   ],
   [
@@ -285,8 +285,8 @@
       "Justinas Pleikys"
     ],
     {
-      "frac": 0.1119403,
-      "effort": "16.310000 km"
+      "frac": 0.18606894,
+      "effort": "16.361000 km"
     }
   ],
   [
@@ -295,18 +295,8 @@
       "Don Cramer"
     ],
     {
-      "frac": 0.06716418,
-      "effort": "12.561000 km"
-    }
-  ],
-  [
-    [
-      "77",
-      "Brodrick Osborne"
-    ],
-    {
-      "frac": 0.02985074,
-      "effort": "4.868000 km"
+      "frac": 0.14316702,
+      "effort": "12.612000 km"
     }
   ],
   [
@@ -315,7 +305,7 @@
       "Robert Davies"
     ],
     {
-      "frac": 0.02985074,
+      "frac": 0.11448542,
       "effort": "10.000000 km"
     }
   ],
@@ -325,8 +315,18 @@
       "Gavin Myers"
     ],
     {
-      "frac": 0.02985074,
+      "frac": 0.11448542,
       "effort": "10.000000 km"
+    }
+  ],
+  [
+    [
+      "77",
+      "Brodrick Osborne"
+    ],
+    {
+      "frac": 0.05302482,
+      "effort": "4.919000 km"
     }
   ]
 ]

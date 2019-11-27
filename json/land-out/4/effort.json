@@ -6,7 +6,7 @@
     ],
     {
       "frac": 1,
-      "effort": "357.457000 km"
+      "effort": "357.462000 km"
     }
   ],
   [
@@ -15,8 +15,8 @@
       "Gavin Myers"
     ],
     {
-      "frac": 0.9875,
-      "effort": "355.443000 km"
+      "frac": 0.99790202,
+      "effort": "355.448000 km"
     }
   ],
   [
@@ -25,8 +25,8 @@
       "Craig Taylor"
     ],
     {
-      "frac": 0.9625,
-      "effort": "352.658000 km"
+      "frac": 0.9920277,
+      "effort": "352.662000 km"
     }
   ],
   [
@@ -35,8 +35,8 @@
       "Rohan Taylor"
     ],
     {
-      "frac": 0.925,
-      "effort": "343.892000 km"
+      "frac": 0.96433442,
+      "effort": "343.897000 km"
     }
   ],
   [
@@ -45,8 +45,8 @@
       "Michael Cassells"
     ],
     {
-      "frac": 0.875,
-      "effort": "332.648000 km"
+      "frac": 0.91733976,
+      "effort": "332.653000 km"
     }
   ],
   [
@@ -55,8 +55,8 @@
       "Brodrick Osborne"
     ],
     {
-      "frac": 0.8125,
-      "effort": "321.748000 km"
+      "frac": 0.86016994,
+      "effort": "321.753000 km"
     }
   ],
   [
@@ -65,8 +65,8 @@
       "Rob de Groot"
     ],
     {
-      "frac": 0.7375,
-      "effort": "309.834000 km"
+      "frac": 0.80551768,
+      "effort": "309.839000 km"
     }
   ],
   [
@@ -75,8 +75,8 @@
       "Neale Halsall"
     ],
     {
-      "frac": 0.6875,
-      "effort": "289.355000 km"
+      "frac": 0.74048044,
+      "effort": "289.360000 km"
     }
   ],
   [
@@ -85,8 +85,8 @@
       "Wayne Thompson"
     ],
     {
-      "frac": 0.65,
-      "effort": "267.036000 km"
+      "frac": 0.69096822,
+      "effort": "267.041000 km"
     }
   ],
   [
@@ -95,8 +95,8 @@
       "Brad Porter"
     ],
     {
-      "frac": 0.625,
-      "effort": "237.741000 km"
+      "frac": 0.64281968,
+      "effort": "237.746000 km"
     }
   ],
   [
@@ -105,8 +105,8 @@
       "Dale Regehr"
     ],
     {
-      "frac": 0.6,
-      "effort": "231.992000 km"
+      "frac": 0.63065142,
+      "effort": "231.997000 km"
     }
   ],
   [
@@ -115,7 +115,7 @@
       "Rick Martin"
     ],
     {
-      "frac": 0.5625,
+      "frac": 0.61155984,
       "effort": "224.782000 km"
     }
   ],
@@ -125,8 +125,8 @@
       "Mikhail Karmazin"
     ],
     {
-      "frac": 0.525,
-      "effort": "206.061000 km"
+      "frac": 0.55271164,
+      "effort": "206.066000 km"
     }
   ],
   [
@@ -135,8 +135,8 @@
       "Simon West"
     ],
     {
-      "frac": 0.475,
-      "effort": "205.807000 km"
+      "frac": 0.55187244,
+      "effort": "205.812000 km"
     }
   ],
   [
@@ -145,8 +145,8 @@
       "Attila Bertok"
     ],
     {
-      "frac": 0.4125,
-      "effort": "201.360000 km"
+      "frac": 0.52827022,
+      "effort": "201.365000 km"
     }
   ],
   [
@@ -155,8 +155,8 @@
       "Yasuhiro Noma"
     ],
     {
-      "frac": 0.3375,
-      "effort": "185.583000 km"
+      "frac": 0.45095982,
+      "effort": "185.588000 km"
     }
   ],
   [
@@ -165,8 +165,8 @@
       "Mark Alton"
     ],
     {
-      "frac": 0.2875,
-      "effort": "180.428000 km"
+      "frac": 0.42956048,
+      "effort": "180.432000 km"
     }
   ],
   [
@@ -175,8 +175,8 @@
       "Rob Larkin"
     ],
     {
-      "frac": 0.225,
-      "effort": "175.572000 km"
+      "frac": 0.40386028,
+      "effort": "175.577000 km"
     }
   ],
   [
@@ -185,8 +185,8 @@
       "Vic Hare"
     ],
     {
-      "frac": 0.15,
-      "effort": "135.887000 km"
+      "frac": 0.2654988,
+      "effort": "135.892000 km"
     }
   ],
   [
@@ -195,8 +195,8 @@
       "Jon Durand Snr"
     ],
     {
-      "frac": 0.1375,
-      "effort": "93.199000 km"
+      "frac": 0.22469318,
+      "effort": "93.204000 km"
     }
   ],
   [
@@ -205,8 +205,8 @@
       "Randal Clotworthy"
     ],
     {
-      "frac": 0.125,
-      "effort": "55.839000 km"
+      "frac": 0.18546104,
+      "effort": "55.844000 km"
     }
   ],
   [
@@ -215,8 +215,8 @@
       "Longfei Yang"
     ],
     {
-      "frac": 0.1,
-      "effort": "55.741000 km"
+      "frac": 0.18525124,
+      "effort": "55.746000 km"
     }
   ],
   [
@@ -225,28 +225,8 @@
       "Nick Purcell"
     ],
     {
-      "frac": 0.0625,
-      "effort": "55.475000 km"
-    }
-  ],
-  [
-    [
-      "14",
-      "Peter Burkitt"
-    ],
-    {
-      "frac": 0.0125,
-      "effort": "2.825000 km"
-    }
-  ],
-  [
-    [
-      "6",
-      "Yoko Sano"
-    ],
-    {
-      "frac": 0.0125,
-      "effort": "5.124000 km"
+      "frac": 0.18430714,
+      "effort": "55.479000 km"
     }
   ],
   [
@@ -255,7 +235,7 @@
       "Ross Smith"
     ],
     {
-      "frac": 0.0125,
+      "frac": 0.06147068,
       "effort": "10.000000 km"
     }
   ],
@@ -265,7 +245,7 @@
       "Oyvind Ellefsen"
     ],
     {
-      "frac": 0.0125,
+      "frac": 0.06147068,
       "effort": "10.000000 km"
     }
   ],
@@ -275,7 +255,7 @@
       "Malcolm Brown"
     ],
     {
-      "frac": 0.0125,
+      "frac": 0.06147068,
       "effort": "10.000000 km"
     }
   ],
@@ -285,7 +265,7 @@
       "Frank Chetcuti"
     ],
     {
-      "frac": 0.0125,
+      "frac": 0.06147068,
       "effort": "10.000000 km"
     }
   ],
@@ -295,8 +275,28 @@
       "Don Cramer"
     ],
     {
-      "frac": 0.0125,
+      "frac": 0.06147068,
       "effort": "10.000000 km"
+    }
+  ],
+  [
+    [
+      "6",
+      "Yoko Sano"
+    ],
+    {
+      "frac": 0.03577048,
+      "effort": "5.129000 km"
+    }
+  ],
+  [
+    [
+      "14",
+      "Peter Burkitt"
+    ],
+    {
+      "frac": 0.02129446,
+      "effort": "2.830000 km"
     }
   ]
 ]

@@ -1,32 +1,20 @@
 {
-  "scoredSeconds": [
-    121,
-    16245
-  ],
   "flyingSeconds": [
-    121,
-    16245
+    0,
+    16275
   ],
-  "loggedSeconds": 16342,
+  "loggedSeconds": 16372,
   "loggedTimes": [
-    "2018-01-01T01:59:41Z",
+    "2018-01-01T01:59:11Z",
     "2018-01-01T06:32:03Z"
   ],
-  "scoredTimes": [
-    "2018-01-01T02:01:42Z",
-    "2018-01-01T06:30:26Z"
-  ],
   "flyingFixes": [
-    4,
-    5496
+    0,
+    5497
   ],
   "flyingTimes": [
-    "2018-01-01T02:01:42Z",
+    "2018-01-01T01:59:11Z",
     "2018-01-01T06:30:26Z"
   ],
-  "scoredFixes": [
-    4,
-    5496
-  ],
-  "loggedFixes": 5594
+  "loggedFixes": 5595
 }
