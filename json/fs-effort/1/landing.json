@@ -10,7 +10,7 @@
     ],
     "sumOf": 4186
   },
-  "bestDistance": null,
+  "bestDistance": "142.756000 km",
   "difficulty": [
     {
       "endChunk": "10.1 km",
@@ -20,20 +20,20 @@
       "frac": 0.07286192,
       "downers": [
         [
-          "102",
-          "Robert Davies"
-        ],
-        [
           "77",
           "Brodrick Osborne"
+        ],
+        [
+          "37",
+          "Gavin Myers"
         ],
         [
           "99",
           "Gennadiy Khramov"
         ],
         [
-          "37",
-          "Gavin Myers"
+          "102",
+          "Robert Davies"
         ]
       ],
       "downward": 4,
@@ -529,20 +529,20 @@
       "frac": 0.47742475,
       "downers": [
         [
-          "6",
-          "Yoko Sano"
-        ],
-        [
           "108",
           "Peter Adriaans"
+        ],
+        [
+          "6",
+          "Yoko Sano"
         ]
       ],
       "downward": 4,
       "rel": 0.00071667,
       "endAhead": "128.1 km",
       "downs": [
-        "115.980 km",
-        "115.937 km"
+        "115.937 km",
+        "115.980 km"
       ]
     },
     {
@@ -623,6 +623,6 @@
     }
   ],
   "lookahead": 122,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 35
 }

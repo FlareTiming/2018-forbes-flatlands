@@ -10,7 +10,7 @@
     ],
     "sumOf": 4896
   },
-  "bestDistance": null,
+  "bestDistance": "185.747000 km",
   "difficulty": [
     {
       "endChunk": "10.1 km",
@@ -20,8 +20,16 @@
       "frac": 0.16472631,
       "downers": [
         [
-          "102",
-          "Robert Davies"
+          "107",
+          "Anatoly Reyter"
+        ],
+        [
+          "51",
+          "Craig Taylor"
+        ],
+        [
+          "4",
+          "Frank Chetcuti"
         ],
         [
           "99",
@@ -32,44 +40,32 @@
           "Justinas Pleikys"
         ],
         [
-          "51",
-          "Craig Taylor"
-        ],
-        [
           "64",
           "Longfei Yang"
-        ],
-        [
-          "14",
-          "Peter Burkitt"
-        ],
-        [
-          "74",
-          "Vic Hare"
-        ],
-        [
-          "108",
-          "Peter Adriaans"
-        ],
-        [
-          "68",
-          "Neale Halsall"
         ],
         [
           "28",
           "Mikhail Karmazin"
         ],
         [
-          "107",
-          "Anatoly Reyter"
+          "68",
+          "Neale Halsall"
+        ],
+        [
+          "108",
+          "Peter Adriaans"
+        ],
+        [
+          "14",
+          "Peter Burkitt"
         ],
         [
           "83",
           "Randal Clotworthy"
         ],
         [
-          "4",
-          "Frank Chetcuti"
+          "102",
+          "Robert Davies"
         ],
         [
           "86",
@@ -78,6 +74,10 @@
         [
           "88",
           "Simon West"
+        ],
+        [
+          "74",
+          "Vic Hare"
         ]
       ],
       "downward": 1,
@@ -540,6 +540,6 @@
     }
   ],
   "lookahead": 147,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 38
 }

@@ -231,28 +231,8 @@
   ],
   [
     [
-      "86",
-      "Ross Smith"
-    ],
-    {
-      "frac": 0.06147068,
-      "effort": "10.000000 km"
-    }
-  ],
-  [
-    [
-      "98",
-      "Oyvind Ellefsen"
-    ],
-    {
-      "frac": 0.06147068,
-      "effort": "10.000000 km"
-    }
-  ],
-  [
-    [
-      "100",
-      "Malcolm Brown"
+      "55",
+      "Don Cramer"
     ],
     {
       "frac": 0.06147068,
@@ -271,8 +251,28 @@
   ],
   [
     [
-      "55",
-      "Don Cramer"
+      "100",
+      "Malcolm Brown"
+    ],
+    {
+      "frac": 0.06147068,
+      "effort": "10.000000 km"
+    }
+  ],
+  [
+    [
+      "98",
+      "Oyvind Ellefsen"
+    ],
+    {
+      "frac": 0.06147068,
+      "effort": "10.000000 km"
+    }
+  ],
+  [
+    [
+      "86",
+      "Ross Smith"
     ],
     {
       "frac": 0.06147068,

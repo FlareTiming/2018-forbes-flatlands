@@ -10,7 +10,7 @@
     ],
     "sumOf": 9731
   },
-  "bestDistance": null,
+  "bestDistance": "388.750000 km",
   "difficulty": [
     {
       "endChunk": "10.1 km",
@@ -20,32 +20,32 @@
       "frac": 0.0363272,
       "downers": [
         [
-          "98",
-          "Oyvind Ellefsen"
-        ],
-        [
-          "100",
-          "Malcolm Brown"
-        ],
-        [
-          "14",
-          "Peter Burkitt"
-        ],
-        [
-          "6",
-          "Yoko Sano"
+          "55",
+          "Don Cramer"
         ],
         [
           "4",
           "Frank Chetcuti"
         ],
         [
-          "55",
-          "Don Cramer"
+          "100",
+          "Malcolm Brown"
+        ],
+        [
+          "98",
+          "Oyvind Ellefsen"
+        ],
+        [
+          "14",
+          "Peter Burkitt"
         ],
         [
           "86",
           "Ross Smith"
+        ],
+        [
+          "6",
+          "Yoko Sano"
         ]
       ],
       "downward": 0,
@@ -505,6 +505,6 @@
     }
   ],
   "lookahead": 376,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 31
 }
