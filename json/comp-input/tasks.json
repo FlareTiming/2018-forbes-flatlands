@@ -238,11 +238,15 @@
           "74",
           "Vic Hare"
         ],
-        [
-          {
-            "penalty-points": -242
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": 242
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         ""
       ],
       [
@@ -250,11 +254,15 @@
           "68",
           "Neale Halsall"
         ],
-        [
-          {
-            "penalty-points": -391
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": 391
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         ""
       ],
       [
@@ -262,11 +270,15 @@
           "28",
           "Mikhail Karmazin"
         ],
-        [
-          {
-            "penalty-points": -253
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": 253
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         ""
       ],
       [
@@ -274,11 +286,15 @@
           "107",
           "Anatoly Reyter"
         ],
-        [
-          {
-            "penalty-points": -107
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": 107
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         ""
       ],
       [
@@ -286,11 +302,15 @@
           "83",
           "Randal Clotworthy"
         ],
-        [
-          {
-            "penalty-points": -26
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": 26
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         ""
       ],
       [
@@ -298,11 +318,15 @@
           "4",
           "Frank Chetcuti"
         ],
-        [
-          {
-            "penalty-points": -176
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": 176
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         ""
       ],
       [
@@ -310,11 +334,15 @@
           "86",
           "Ross Smith"
         ],
-        [
-          {
-            "penalty-points": -80
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": 80
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         ""
       ]
     ],
@@ -455,11 +483,15 @@
           "80",
           "Michael Cassells"
         ],
-        [
-          {
-            "penalty-points": 37.5
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -37.5
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 1:15"
       ]
     ],
@@ -469,11 +501,15 @@
           "43",
           "Jonny Durand"
         ],
-        [
-          {
-            "penalty-points": -704
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": 704
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         ""
       ]
     ],
@@ -592,11 +628,15 @@
           "85",
           "Rick Martin"
         ],
-        [
-          {
-            "penalty-points": 117
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -117
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 3:54"
       ]
     ],
@@ -1029,11 +1069,15 @@
           "85",
           "Rick Martin"
         ],
-        [
-          {
-            "penalty-points": 70
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -70
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Early Start"
       ]
     ],
