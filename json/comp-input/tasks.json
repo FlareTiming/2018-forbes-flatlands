@@ -75,6 +75,7 @@
       "retroactive": "2017-12-30T07:08:00Z"
     },
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": 0,
       "leadingAreaDistanceSquared": true,
@@ -108,7 +109,8 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
-    }
+    },
+    "cancelled": false
   },
   {
     "taskName": "task 2",
@@ -219,6 +221,7 @@
     ],
     "stopped": null,
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": null,
       "leadingAreaDistanceSquared": true,
@@ -372,7 +375,8 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
-    }
+    },
+    "cancelled": false
   },
   {
     "taskName": "Task 3",
@@ -465,6 +469,7 @@
     ],
     "stopped": null,
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": null,
       "leadingAreaDistanceSquared": true,
@@ -535,7 +540,8 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
-    }
+    },
+    "cancelled": false
   },
   {
     "taskName": "Task 4",
@@ -610,6 +616,7 @@
     ],
     "stopped": null,
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": null,
       "leadingAreaDistanceSquared": true,
@@ -659,7 +666,8 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
-    }
+    },
+    "cancelled": false
   },
   {
     "taskName": "Task 5",
@@ -752,6 +760,7 @@
     ],
     "stopped": null,
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": null,
       "leadingAreaDistanceSquared": true,
@@ -788,7 +797,8 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
-    }
+    },
+    "cancelled": false
   },
   {
     "taskName": "Task 6",
@@ -899,6 +909,7 @@
     ],
     "stopped": null,
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": null,
       "leadingAreaDistanceSquared": true,
@@ -939,7 +950,8 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
-    }
+    },
+    "cancelled": false
   },
   {
     "taskName": "Task 7",
@@ -1050,6 +1062,7 @@
     ],
     "stopped": null,
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": null,
       "leadingAreaDistanceSquared": true,
@@ -1107,6 +1120,7 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "600 s"
-    }
+    },
+    "cancelled": false
   }
 ]

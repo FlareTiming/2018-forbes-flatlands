@@ -19,17 +19,14 @@
         "effort": 282.221,
         "arrival": 54.4
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 990.101,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": "46.34 km / h",
@@ -40,8 +37,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "45.90 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 990.101,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -69,17 +76,14 @@
         "effort": 282.221,
         "arrival": 46.5
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 981.561,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": "46.29 km / h",
@@ -90,8 +94,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "45.90 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 981.561,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -119,17 +133,14 @@
         "effort": 282.221,
         "arrival": 39.5
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 970.926,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": "46.17 km / h",
@@ -140,8 +151,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "45.70 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 970.926,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -169,17 +190,14 @@
         "effort": 282.221,
         "arrival": 33.6
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 937.996,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": "45.72 km / h",
@@ -190,8 +208,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "45.40 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 937.996,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -219,17 +247,14 @@
         "effort": 282.221,
         "arrival": 28.5
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 910.746,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": "44.64 km / h",
@@ -240,8 +265,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "44.40 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 910.746,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -269,17 +304,14 @@
         "effort": 282.221,
         "arrival": 18
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 893.512,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": "44.54 km / h",
@@ -290,8 +322,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "44.30 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 893.512,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -319,17 +361,14 @@
         "effort": 282.221,
         "arrival": 15.8
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 885.981,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": "44.32 km / h",
@@ -340,8 +379,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "44.00 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 885.981,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -369,17 +418,14 @@
         "effort": 282.221,
         "arrival": 20.8
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 862.416,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:30:00Z",
         "ssVelocity": "42.17 km / h",
@@ -390,8 +436,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "41.70 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 862.416,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -419,17 +475,14 @@
         "effort": 282.221,
         "arrival": 24.3
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 849.505,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:30:00Z",
         "ssVelocity": "41.98 km / h",
@@ -440,8 +493,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "41.70 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 849.505,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -469,17 +532,14 @@
         "effort": 282.221,
         "arrival": 12.8
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 827.197,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": "41.44 km / h",
@@ -490,8 +550,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "41.20 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 827.197,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -519,29 +589,36 @@
         "effort": 282.221,
         "arrival": 14.1
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
-      "subtotal": 819.224,
+      "subtotal": 819.262,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": {
+        "gs": "2017-12-31T02:45:00Z",
+        "ssVelocity": "41.48 km / h",
+        "ssElapsed": "4.246323 h",
+        "gsElapsed": "4.258916 h",
+        "es": "2017-12-31T07:00:32.096104415481Z",
+        "ss": "2017-12-31T02:45:45.333807574084Z",
+        "ssDistance": "176.145 km",
+        "gsVelocity": "41.40 km / h"
+      },
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": {
-        "gs": "2017-12-31T02:45:00Z",
-        "ssVelocity": "41.39 km / h",
-        "ssElapsed": "4.256095 h",
-        "gsElapsed": "4.258916 h",
-        "es": "2017-12-31T07:00:32.096104415481Z",
-        "ss": "2017-12-31T02:45:10.152588723461Z",
-        "ssDistance": "176.145 km",
-        "gsVelocity": "41.40 km / h"
-      },
-      "total": 819.224,
+      "total": 819.262,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -569,17 +646,14 @@
         "effort": 282.221,
         "arrival": 12
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 812.46,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": "41.19 km / h",
@@ -590,8 +664,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "41.00 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 812.46,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -619,17 +703,14 @@
         "effort": 282.221,
         "arrival": 11.4
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 795.334,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": "40.05 km / h",
@@ -640,8 +721,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "39.80 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 795.334,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -669,17 +760,14 @@
         "effort": 282.221,
         "arrival": 11.1
       },
+      "essNotGoal": false,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "185.745 km",
       "subtotal": 749.105,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:30:00Z",
         "ssVelocity": "37.85 km / h",
@@ -690,8 +778,18 @@
         "ssDistance": "176.145 km",
         "gsVelocity": "37.00 km / h"
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 749.105,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -714,22 +812,19 @@
       "breakdown": {
         "time": 0,
         "reach": 272.398,
-        "distance": 553.655,
+        "distance": 553.793,
         "leading": 43.8,
-        "effort": 281.257,
+        "effort": 281.394,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "504.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "179.083 km",
-      "subtotal": 597.423,
+      "landedMade": "179.280 km",
+      "subtotal": 597.561,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": null,
@@ -740,8 +835,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 597.423,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 597.561,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -769,17 +874,14 @@
         "effort": 282.221,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "568.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "180.617 km",
+      "landedMade": "180.659 km",
       "subtotal": 593.192,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": null,
@@ -790,8 +892,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 593.192,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -819,17 +931,14 @@
         "effort": 276.158,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "590.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "174.893 km",
+      "landedMade": "174.920 km",
       "subtotal": 580.796,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": null,
@@ -840,8 +949,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 580.796,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -864,22 +983,19 @@
       "breakdown": {
         "time": 0,
         "reach": 247.492,
-        "distance": 501.326,
+        "distance": 501.464,
         "leading": 35.1,
-        "effort": 253.834,
+        "effort": 253.972,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "643.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "162.689 km",
-      "subtotal": 536.411,
+      "landedMade": "162.888 km",
+      "subtotal": 536.549,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": null,
@@ -890,8 +1006,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 536.411,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 536.549,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -914,22 +1040,19 @@
       "breakdown": {
         "time": 0,
         "reach": 254.606,
-        "distance": 516.57,
+        "distance": 517.397,
         "leading": 0,
-        "effort": 261.964,
+        "effort": 262.791,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "535.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "167.065 km",
-      "subtotal": 516.57,
+      "landedMade": "167.570 km",
+      "subtotal": 517.397,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T03:15:00Z",
         "ssVelocity": null,
@@ -940,8 +1063,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 516.57,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 517.397,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -964,22 +1097,19 @@
       "breakdown": {
         "time": 0,
         "reach": 236.933,
-        "distance": 480.707,
+        "distance": 480.569,
         "leading": 31.5,
-        "effort": 243.774,
+        "effort": 243.636,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "820.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "155.812 km",
-      "subtotal": 512.179,
+      "landedMade": "155.938 km",
+      "subtotal": 512.042,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:30:00Z",
         "ssVelocity": null,
@@ -990,8 +1120,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 512.179,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 512.042,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1014,30 +1154,37 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 493.286,
+      "total": 494.388,
       "penalties": {
         "adds": [
           {
             "penalty-points": 391
           }
         ],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
         "resets": [],
         "muls": []
       },
@@ -1059,22 +1206,19 @@
       "breakdown": {
         "time": 0,
         "reach": 237.416,
-        "distance": 481.052,
+        "distance": 481.603,
         "leading": 0,
-        "effort": 243.636,
+        "effort": 244.188,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "600.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "155.741 km",
-      "subtotal": 481.052,
+      "landedMade": "156.256 km",
+      "subtotal": 481.603,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T03:30:00Z",
         "ssVelocity": null,
@@ -1085,8 +1229,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 481.052,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 481.603,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1109,34 +1263,41 @@
       "breakdown": {
         "time": 0,
         "reach": 227.669,
-        "distance": 458.214,
+        "distance": 458.076,
         "leading": 0,
-        "effort": 230.545,
+        "effort": 230.407,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "580.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "149.836 km",
-      "subtotal": 458.214,
+      "landedMade": "149.841 km",
+      "subtotal": 458.076,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T03:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-12-31T03:31:07.68624851556Z",
+        "ss": "2017-12-31T03:31:34.09936674189Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 458.214,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 458.076,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1159,22 +1320,19 @@
       "breakdown": {
         "time": 0,
         "reach": 206.614,
-        "distance": 416.075,
+        "distance": 416.765,
         "leading": 33.4,
-        "effort": 209.461,
+        "effort": 210.15,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "640.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "135.592 km",
-      "subtotal": 449.464,
+      "landedMade": "135.984 km",
+      "subtotal": 450.153,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": null,
@@ -1185,8 +1343,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 449.464,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 450.153,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1209,22 +1377,19 @@
       "breakdown": {
         "time": 0,
         "reach": 186.437,
-        "distance": 387.354,
+        "distance": 387.905,
         "leading": 29,
-        "effort": 200.917,
+        "effort": 201.468,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "0.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "122.379 km",
-      "subtotal": 416.333,
+      "landedMade": "122.704 km",
+      "subtotal": 416.884,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": null,
@@ -1235,8 +1400,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 416.333,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 416.884,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1259,34 +1434,41 @@
       "breakdown": {
         "time": 0,
         "reach": 184.693,
-        "distance": 383.267,
+        "distance": 384.783,
         "leading": 0,
-        "effort": 198.575,
+        "effort": 200.09,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "485.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "120.431 km",
-      "subtotal": 383.267,
+      "landedMade": "121.556 km",
+      "subtotal": 384.783,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T03:15:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-12-31T03:27:48.04887619059Z",
+        "ss": "2017-12-31T03:28:23.34549200146Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 383.267,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 384.783,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1309,22 +1491,19 @@
       "breakdown": {
         "time": 0,
         "reach": 165.341,
-        "distance": 348.206,
+        "distance": 347.793,
         "leading": 13.4,
-        "effort": 182.865,
+        "effort": 182.452,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "549.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "108.676 km",
-      "subtotal": 361.592,
+      "landedMade": "108.820 km",
+      "subtotal": 361.179,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:30:00Z",
         "ssVelocity": null,
@@ -1335,8 +1514,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 361.592,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 361.179,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1359,22 +1548,19 @@
       "breakdown": {
         "time": 0,
         "reach": 169.979,
-        "distance": 357.253,
+        "distance": 357.942,
         "leading": 0,
-        "effort": 187.275,
+        "effort": 187.964,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "490.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "111.076 km",
-      "subtotal": 357.253,
+      "landedMade": "111.872 km",
+      "subtotal": 357.942,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T03:15:00Z",
         "ssVelocity": null,
@@ -1385,8 +1571,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 357.253,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 357.942,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1409,30 +1605,37 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 355.286,
+      "total": 356.388,
       "penalties": {
         "adds": [
           {
             "penalty-points": 253
           }
         ],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
         "resets": [],
         "muls": []
       },
@@ -1454,30 +1657,37 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 344.286,
+      "total": 345.388,
       "penalties": {
         "adds": [
           {
             "penalty-points": 242
           }
         ],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
         "resets": [],
         "muls": []
       },
@@ -1499,22 +1709,19 @@
       "breakdown": {
         "time": 0,
         "reach": 158.589,
-        "distance": 332.359,
+        "distance": 333.462,
         "leading": 0,
-        "effort": 173.77,
+        "effort": 174.872,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "428.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "103.663 km",
-      "subtotal": 332.359,
+      "landedMade": "104.376 km",
+      "subtotal": 333.462,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T03:00:00Z",
         "ssVelocity": null,
@@ -1525,13 +1732,23 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 332.359,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 333.462,
       "penalties": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "place": "31="
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "31"
     }
   ],
   [
@@ -1554,17 +1771,14 @@
         "effort": 174.183,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "556.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "103.898 km",
+      "landedMade": "103.966 km",
       "subtotal": 332.15,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": null,
@@ -1575,13 +1789,23 @@
         "ssDistance": null,
         "gsVelocity": null
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 332.15,
       "penalties": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "place": "31="
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "32"
     }
   ],
   [
@@ -1599,34 +1823,41 @@
       "breakdown": {
         "time": 0,
         "reach": 150.491,
-        "distance": 311.996,
+        "distance": 312.823,
         "leading": 0,
-        "effort": 161.506,
+        "effort": 162.332,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "401.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "98.582 km",
-      "subtotal": 311.996,
+      "landedMade": "99.046 km",
+      "subtotal": 312.823,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T03:00:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-12-31T03:08:19.609917835085Z",
+        "ss": "2017-12-31T03:12:56.424216119765Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 311.996,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 312.823,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1649,22 +1880,19 @@
       "breakdown": {
         "time": 0,
         "reach": 138.883,
-        "distance": 282.336,
+        "distance": 282.887,
         "leading": 0,
-        "effort": 143.453,
+        "effort": 144.004,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "444.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "91.182 km",
-      "subtotal": 282.336,
+      "landedMade": "91.406 km",
+      "subtotal": 282.887,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T03:15:00Z",
         "ssVelocity": null,
@@ -1675,8 +1903,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 282.336,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 282.887,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1699,30 +1937,37 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 278.286,
+      "total": 279.388,
       "penalties": {
         "adds": [
           {
             "penalty-points": 176
           }
         ],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
         "resets": [],
         "muls": []
       },
@@ -1744,22 +1989,19 @@
       "breakdown": {
         "time": 0,
         "reach": 102.564,
-        "distance": 229.068,
+        "distance": 230.17,
         "leading": 0,
-        "effort": 126.503,
+        "effort": 127.606,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "423.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "67.410 km",
-      "subtotal": 229.068,
+      "landedMade": "67.503 km",
+      "subtotal": 230.17,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": null,
@@ -1770,8 +2012,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 229.068,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 230.17,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1794,30 +2046,37 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 209.286,
+      "total": 210.388,
       "penalties": {
         "adds": [
           {
             "penalty-points": 107
           }
         ],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
         "resets": [],
         "muls": []
       },
@@ -1839,22 +2098,19 @@
       "breakdown": {
         "time": 0,
         "reach": 88.057,
-        "distance": 208.773,
+        "distance": 209.875,
         "leading": 0,
-        "effort": 120.716,
+        "effort": 121.818,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "0.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "57.889 km",
-      "subtotal": 208.773,
+      "landedMade": "57.955 km",
+      "subtotal": 209.875,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T03:30:00Z",
         "ssVelocity": null,
@@ -1865,8 +2121,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 208.773,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 209.875,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1889,22 +2155,19 @@
       "breakdown": {
         "time": 0,
         "reach": 87.351,
-        "distance": 205.862,
+        "distance": 208.48,
         "leading": 0,
-        "effort": 118.511,
+        "effort": 121.129,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "350.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "56.098 km",
-      "subtotal": 205.862,
+      "landedMade": "57.490 km",
+      "subtotal": 208.48,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T03:15:00Z",
         "ssVelocity": null,
@@ -1915,8 +2178,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 205.862,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 208.48,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -1939,30 +2212,37 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 182.286,
+      "total": 183.388,
       "penalties": {
         "adds": [
           {
             "penalty-points": 80
           }
         ],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
         "resets": [],
         "muls": []
       },
@@ -1984,22 +2264,19 @@
       "breakdown": {
         "time": 0,
         "reach": 71.473,
-        "distance": 176.479,
+        "distance": 177.03,
         "leading": 0,
-        "effort": 105.006,
+        "effort": 105.557,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "322.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "46.716 km",
-      "subtotal": 176.479,
+      "landedMade": "47.040 km",
+      "subtotal": 177.03,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T03:30:00Z",
         "ssVelocity": null,
@@ -2010,8 +2287,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 176.479,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 177.03,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -2034,30 +2321,37 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 128.286,
+      "total": 129.388,
       "penalties": {
         "adds": [
           {
             "penalty-points": 26
           }
         ],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
         "resets": [],
         "muls": []
       },
@@ -2079,22 +2373,19 @@
       "breakdown": {
         "time": 0,
         "reach": 22.703,
-        "distance": 112.551,
+        "distance": 113.929,
         "leading": 0,
-        "effort": 89.848,
+        "effort": 91.226,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "304.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "14.610 km",
-      "subtotal": 112.551,
+      "landedMade": "14.942 km",
+      "subtotal": 113.929,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": "2017-12-31T02:45:00Z",
         "ssVelocity": null,
@@ -2105,8 +2396,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 112.551,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 113.929,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -2129,25 +2430,32 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 102.286,
+      "total": 103.388,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -2170,25 +2478,32 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 102.286,
+      "total": 103.388,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -2211,25 +2526,32 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 102.286,
+      "total": 103.388,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -2252,25 +2574,32 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 102.286,
+      "total": 103.388,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -2293,25 +2622,32 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 102.286,
+        "distance": 103.388,
         "leading": 0,
-        "effort": 87.092,
+        "effort": 88.194,
         "arrival": 0
       },
+      "essNotGoal": null,
       "stoppedAlt": null,
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
       "landedMade": "0.000 km",
-      "subtotal": 102.286,
+      "subtotal": 103.388,
       "penaltyReason": "",
-      "penaltiesJump": {
+      "velocity": null,
+      "penaltiesJumpEffective": {
         "adds": [],
         "resets": [],
         "muls": []
       },
-      "velocity": null,
-      "total": 102.286,
+      "total": 103.388,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -2334,22 +2670,19 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 73.071,
+        "distance": 81.202,
         "leading": 0,
-        "effort": 57.877,
+        "effort": 66.008,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "234.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "6.312 km",
-      "subtotal": 73.071,
+      "landedMade": "7.269 km",
+      "subtotal": 81.202,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": null,
         "ssVelocity": null,
@@ -2360,8 +2693,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 73.071,
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "total": 81.202,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -2389,17 +2732,14 @@
         "effort": 0.965,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "283.000 m",
       "demeritFrac": 0,
+      "penaltiesJumpRaw": null,
       "demeritReset": 0,
-      "landedMade": "-2.942 km",
+      "landedMade": "0.061 km",
       "subtotal": 16.159,
       "penaltyReason": "",
-      "penaltiesJump": {
-        "adds": [],
-        "resets": [],
-        "muls": []
-      },
       "velocity": {
         "gs": null,
         "ssVelocity": null,
@@ -2410,8 +2750,18 @@
         "ssDistance": null,
         "gsVelocity": null
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "total": 16.159,
       "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
         "adds": [],
         "resets": [],
         "muls": []
@@ -2434,26 +2784,23 @@
       "breakdown": {
         "time": 0,
         "reach": 15.194,
-        "distance": 67.973,
+        "distance": 84.647,
         "leading": 0,
-        "effort": 52.779,
+        "effort": 69.453,
         "arrival": 0
       },
+      "essNotGoal": false,
       "stoppedAlt": "276.000 m",
       "demeritFrac": 0,
-      "demeritReset": 52.973,
-      "landedMade": "5.718 km",
-      "subtotal": 67.973,
-      "penaltyReason": "",
-      "penaltiesJump": {
+      "penaltiesJumpRaw": {
         "adds": [],
-        "resets": [
-          {
-            "penalty-reset": 15
-          }
-        ],
+        "resets": [],
         "muls": []
       },
+      "demeritReset": 69.647,
+      "landedMade": "7.668 km",
+      "subtotal": 84.647,
+      "penaltyReason": "",
       "velocity": {
         "gs": "2017-12-31T02:30:00Z",
         "ssVelocity": null,
@@ -2464,6 +2811,15 @@
         "ssDistance": null,
         "gsVelocity": null
       },
+      "penaltiesJumpEffective": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 15
+          }
+        ],
+        "muls": []
+      },
       "total": 15,
       "penalties": {
         "adds": [],
@@ -2472,6 +2828,11 @@
             "penalty-reset": 15
           }
         ],
+        "muls": []
+      },
+      "penaltiesEssNotGoal": {
+        "adds": [],
+        "resets": [],
         "muls": []
       },
       "place": "51"

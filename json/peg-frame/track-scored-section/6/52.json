@@ -3,6 +3,7 @@
     0,
     20400
   ],
+  "scoredWindowSeconds": 20400,
   "scoredTimes": [
     "2018-01-04T02:17:07Z",
     "2018-01-04T07:57:07Z"
